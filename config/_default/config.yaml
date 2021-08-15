@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: SEAL # Website name
+title: Spatial Ecosystems Analytics Lab (SEAL) # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '2021 Spatial Ecosystems Analytics Lab at NCSU' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Spatial Ecosystems Analytics Lab at NCSU' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
