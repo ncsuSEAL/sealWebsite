@@ -5,19 +5,19 @@
 
 main:
   - name: News
-    url: '#posts'
+    url: 'posts'
     weight: 10
   - name: Team
-    url: '#people'
+    url: 'people'
     weight: 20
   - name: Projects
-    url: '#projects'
+    url: 'projects'
     weight: 30
   - name: Publications
-    url: '#publications'
+    url: 'publications'
     weight: 40
   - name: Contact
-    url: '#contact'
+    url: 'contact'
     weight: 50
   #- name: Projects
   #  url: '#projects'
