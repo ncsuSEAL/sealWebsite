@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Lab Updates
 cms_exclude: true
 
 # View.
