@@ -1,10 +1,10 @@
 ---
 # Display name
-title: putYourNameHere
+title: Xiaojie Gao
 
 # Username (this should match the folder name)
 authors:
-- ianmcgregor
+- xiaojiegao
 
 # Is this the primary user of the site?
 superuser: false

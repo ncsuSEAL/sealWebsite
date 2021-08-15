@@ -1,10 +1,10 @@
 ---
 # Display name
-title: putYourNameHere
+title: Jenna Abrahamson
 
 # Username (this should match the folder name)
 authors:
-- ianmcgregor
+- jennaabrahamson
 
 # Is this the primary user of the site?
 superuser: false
