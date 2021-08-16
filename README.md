@@ -1,6 +1,8 @@
 # SEAL website
 This is the repo that hosts the information used in the [SEAL website](https://ncsu-seal.netlify.app/), which is from the Academic Template for [Hugo](https://github.com/gohugoio/hugo) (see the documentation [here](https://wowchemy.com/docs/) for specific info). The goal for this website is that it's essentially a bunch of markdown files that anyone in the lab can update when needed, so this is meant to be a collaborative effort.
 
+The URL for the website is currently the basic, free one (ncsu-seal.netlify.app). If we want to have a custom domain, that is easy to do but there is a small cost per year).
+
 ## Updating Content
 Content can either be edited directly in GitHub or by cloning the repository to your local machine, editing files, and pushing back to GitHub. Website deployments (rendering the website) are done automatically with each commit via Netlify, so it's advised that you clone the repo when possible (e.g. push several commits at once, instead of one for each small change). 
 - *NOTE:* currently the Netlify account is linked to Ian's GitHub, but anyone can have access if they want. Please send an email to him asking to be added.
