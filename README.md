@@ -19,7 +19,7 @@ Inside each folder you can have the following 4 items
 - citation file (`cite.bib`): this is a BibTex file with the citation for the paper. If this is added, then it allows people to download the citation from the lab website.
 - pdf of the paper (`<someName>.pdf`): self-explanatory, just note you will need to have this file name referenced in the `index.md` file.
 - an associated image (`featured.jpg`): some image if you want, otherwise the publication will show up only with text on the website.
-- `index.md`: this is the primary metadata for hoow the website renders the publication info. Similar to other index files, this has a specific toml format, so make sure everything is filled out as needed.
+- `index.md`: this is the primary metadata for hoow the website renders the publication info. Similar to other index files, this has a specific toml format, so make sure everything is filled out as needed. Remember, if other lab members are on the publication, refer to them using their username on the website, which is all lowercase (e.g. joshgray). This way their user page is linked to the publication.
 
 ### Default info for the website
 To change around how the website looks, including color, background pictures, etc, see the following, plus the Wowchemy documentation (linked at top) for more details.
