@@ -18,20 +18,24 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a monster at Monster's University
+bio: I am a Ph.D. student at the Center for Geospatial Analytics at NC State University.
 
 interests:
-- We scare because we care.
+-Geocomputation
+-Remote sensing
+-Climate change
+-Sustainable agriculture
+-Risk assessment
 
 education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 20??–Present
+    year: 2020–Present
 
-  - course: Add more courses here
-    institution: Monster's Prep
-    year: 2017 [year of graduation]
+  - course: BSc in Computer Science, BSc in Environmental Science
+    institution: University of North Carolina at Chapel Hill
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,19 +44,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:YourEmail@ncsu.edu'
-- icon: twitter
-  icon_pack: fab
-  link:
+  link: 'mailto:irhinks@ncsu.edu'
+#- icon: twitter
+#  icon_pack: fab
+#  link:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link:
+  link: https://scholar.google.com/citations?hl=en&user=6KDXpH0AAAAJ
 - icon: github
   icon_pack: fab
-  link:
+  link: https://github.com/iHinks
 - icon: linkedin
   icon_pack: fab
-  link:
+  link: https://www.linkedin.com/in/isabellahinks/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "YourEmail@ncsu.edu"
+email: "irhinks@ncsu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,6 +72,4 @@ user_groups:
 - Graduate Students
 ---
 
-Add your bio here, it can be multiple lines long. See Mirela's site for examples: https://practical-pike-e67a8a.netlify.app/people/.
-
-When you are done, please add a picture of yourself (<= 1MB) in this folder and name the picture "avatar.jpg". See Ian's folder for an example.
+Isabella "Izzi" Hinks is a Geospatial Analytics Ph.D. student, who received B.S. degrees in Computer Science and Environmental Science from the University of North Carolina at Chapel Hill. Her research goal is to develop strategies to improve food security and human-nature interactions in the wake of climate change. Izzi’s current work uses remotely sensed data and household surveys to examine the adaptive potential of smallholder agriculture in poverty-ridden areas. Previously, she used remote sensing algorithms to monitor the rehabilitation of coastal ecosystems in Thailand. Izzi was a founding member of a tech start-up that helps local governments optimize decisions using constituent data, and more recently worked with a nonprofit to support underserved communities during Covid-19.
