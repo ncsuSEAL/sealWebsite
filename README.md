@@ -8,7 +8,7 @@ Content can either be edited directly in GitHub or by cloning the repository to 
 - *NOTE:* currently the Netlify account is linked to Ian's GitHub, but anyone can have access if they want. Please send an email to him asking to be added.
 
 ### Lab member info
-Each lab member has their own "page" on the website, under the [Team section](https://ncsu-seal.netlify.app/people/). To update your page, navigate to your [folder](https://github.com/ncsuSEAL/sealWebsite/tree/master/content/authors) and update the information in `_index.md` as appropriate. To add a profile picture, upload an image labeled `avatar.jpg` (can be png) that preferably is <= 1 MB.
+Each lab member has their own "page" on the website, under the [Team section](https://ncsu-seal.netlify.app/people/). To update your page, navigate to your [folder](https://github.com/ncsuSEAL/sealWebsite/tree/master/content/authors) and update the information in `_index.md` as appropriate. To add a profile picture, upload an image labeled `avatar.jpg` (can be png, but then update the reference accordingly) that preferably is <= 1 MB.
 - Each lab member belongs to a different category. These can be seen (and/or edited) in `content/people/people.md`. Note that the attribution must be spelled and capitalized exactly the same.
 - If you do not have one of the social options (e.g. you don't have a Twitter), then remember to comment out those lines with `#`.
 
