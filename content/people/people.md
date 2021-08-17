@@ -20,9 +20,9 @@ content:
   - Postdoctoral Research Fellow
   - Researchers
   - Graduate Students
-  - Administration
   - Visitors
-  - Alumni
+  - Collaborators
+  - Lab Alumni
 design:
   show_interests: false
   show_role: true
