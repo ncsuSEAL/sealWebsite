@@ -18,20 +18,22 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a monster at Monster's University
+bio: PhD Student @ NCSU
 
 interests:
-- We scare because we care.
+- Large scale computation
+- Agriculture/food security
+- Remote Sensing
 
 education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 20??–Present
+    year: 2021–Present
 
-  - course: Add more courses here
-    institution: Monster's Prep
-    year: 2017 [year of graduation]
+  - course: Environmental & Spatial Analysis
+    institution: University of North Georgia
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,19 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:YourEmail@ncsu.edu'
+  link: 'mailto:osmith2@ncsu.edu'
 - icon: twitter
   icon_pack: fab
-  link:
+  link: https://twitter.com/ocsmit
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link:
 - icon: github
   icon_pack: fab
-  link:
+  link: https://github.com/ocsmit
 - icon: linkedin
   icon_pack: fab
-  link:
+  link: https://www.linkedin.com/in/owen-smith-34a6811ba
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +70,7 @@ user_groups:
 - Graduate Students
 ---
 
-Add your bio here, it can be multiple lines long. See Mirela's site for examples: https://practical-pike-e67a8a.netlify.app/people/.
+I am a current first year PhD student within SEAL and the broader Center for Geospatial Analytics at NCSU.
+My research primarily focuses on the development of remote sensing algorithms and computation at scale to derive information and new data.
+Additionally, I am a firm believer of Open software/science and subsequently enjoy contributing and writing new processing addons for GRASS GIS.
 
-When you are done, please add a picture of yourself (<= 1MB) in this folder and name the picture "avatar.jpg". See Ian's folder for an example.
