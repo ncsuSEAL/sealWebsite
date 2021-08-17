@@ -21,11 +21,11 @@ organizations:
 bio: I am a Ph.D. student at the Center for Geospatial Analytics at NC State University.
 
 interests:
--Geocomputation
--Remote sensing
--Climate change
--Sustainable agriculture
--Risk assessment
+- Geocomputation
+- Remote sensing
+- Climate change
+- Sustainable agriculture
+- Risk assessment
 
 education:
   courses:
