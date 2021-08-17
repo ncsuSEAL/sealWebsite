@@ -10,6 +10,7 @@ Content can either be edited directly in GitHub or by cloning the repository to 
 ### Lab member info
 Each lab member has their own "page" on the website, under the [Team section](https://ncsu-seal.netlify.app/people/). To update your page, navigate to your [folder](https://github.com/ncsuSEAL/sealWebsite/tree/master/content/authors) and update the information in `_index.md` as appropriate. To add a profile picture, upload an image labeled `avatar.jpg` (can be png) that preferably is <= 1 MB.
 - Each lab member belongs to a different category. These can be seen (and/or edited) in `content/people/people.md`. Note that the attribution must be spelled and capitalized exactly the same.
+- If you do not have one of the social options (e.g. you don't have a Twitter), then remember to comment out those lines with `#`.
 
 ### Add a lab update
 To add lab update (i.e. short post like a blog or news announcement), navigate to `content/post` and create a folder starting with the date and a short qualifying of the name, for example "2021-08-15_testPost". Inside the folder create a file named `index.md` that files the standard toml format; see the [sample post](https://github.com/ncsuSEAL/sealWebsite/tree/master/content/post/2021-08-15) for an example. You can also add an associated image (`image.png`) if you want.
