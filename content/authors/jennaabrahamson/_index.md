@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jnabraha@ncsu.edu'
-- icon: twitter
-  icon_pack: fab
-  link:
+# - icon: twitter
+#   icon_pack: fab
+#   link:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: 'https://scholar.google.de/citations?user=jnp3sd8AAAAJ&hl=en&oi=ao'

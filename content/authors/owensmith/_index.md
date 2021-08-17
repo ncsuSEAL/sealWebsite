@@ -46,9 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ocsmit
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link:
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: ai
+#   link:
 - icon: github
   icon_pack: fab
   link: https://github.com/ocsmit
