@@ -18,20 +18,23 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a monster at Monster's University
+bio: Geospatial Analytics PhD student within the SEAL lab at North Carolina State University.
 
 interests:
-- We scare because we care.
+- Remote Sensing
+- Climate Change
+- Large-Scale Change Monitoring
+- Natural Resources
 
 education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 20??–Present
+    year: 2021–Present
 
-  - course: Add more courses here
-    institution: Monster's Prep
-    year: 2017 [year of graduation]
+  - course: BSc in Environmental Science/Geology
+    institution: University of St. Thomas
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,19 +43,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:YourEmail@ncsu.edu'
+  link: 'mailto:jnabraha@ncsu.edu'
 - icon: twitter
   icon_pack: fab
   link:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link:
+  link: 'https://scholar.google.de/citations?user=jnp3sd8AAAAJ&hl=en&oi=ao'
 - icon: github
   icon_pack: fab
-  link:
+  link: 'https://github.com/jen-abrahamson'
 - icon: linkedin
   icon_pack: fab
-  link:
+  link: 'https://www.linkedin.com/in/jenna-abrahamson'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "YourEmail@ncsu.edu"
+email: "jnabraha@ncsu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,6 +71,4 @@ user_groups:
 - Graduate Students
 ---
 
-Add your bio here, it can be multiple lines long. See Mirela's site for examples: https://practical-pike-e67a8a.netlify.app/people/.
-
-When you are done, please add a picture of yourself (<= 1MB) in this folder and name the picture "avatar.jpg". See Ian's folder for an example.
+I am a first year Geospatial Analytics PhD student within the SEAL lab at NCSU.  My current research interests focus on using remote sensing algorithms to locate and characterize environmental change across regional to global scales.  More specifically, I am interested in the impact these changes and subsequent land use dynamics have on water budgets and freshwater availability in the face of a changing climate and growing population.
