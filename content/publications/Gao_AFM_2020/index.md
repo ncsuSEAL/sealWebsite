@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Agricultural and Forest Meteorology
-publication_short: AFM
+publication_short: AgForMet
 
 abstract: 'Increasing forest productivity is important to meet future demand for forest products, and to improve resilience in the face of climate change. Forest productivity depends on many things, but the timing of leaf development (hereafter: “plant phenology”) is especially important. However, our understanding of how plant phenology affects the productivity of managed forests, and how silviculture may in turn affect phenology, has been limited because of the spatial scale mismatch between phenological data and field experimental observations. In this study, we take advantage of a new 30 m satellite land surface phenology dataset and stand growth measurements from long-term experimental pine plantation sites in the southeastern United States to investigate the question: is stand growth related to remotely sensed phenology metrics? Multiple linear regression and random forest models were fitted to quantify the effect of phenology and silvicultural treatments on stand growth. We found that: 
 
