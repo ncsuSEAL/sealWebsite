@@ -1,11 +1,11 @@
 ---
-title: Improving Near Real-Time Deforestation Monitoring with a Novel, Multi-Source, Bayesian Method
+title: Improving Near Real-Time Deforestation Monitoring with a Novel, Multi-Source Bayesian Method
 
 authors:
 - ianmcgregor
 - admin
 
-summary: Deforestation has been and continues to be a major issue for conservation. This is especially pertinent in countries like Myanmar, which has the most remaining forest in SE Asia. Current remote sensing methods have been developed to monitor deforestation in near real-time given the large availability of accessible satellite data. However, most approaches can have detection lags of at least a few weeks after the disturbance happened, and few discuss the trade-offs of temporal latency and spatial accuracy. This NASA-funded project aims to develop a novel method of aggregating multi-source satellite data while accounting for the latency/accuracy trade-off. We also incorporate Bayesian updating with the goal of creating a daily deforestation probability map.
+summary: This NASA-funded project aims to develop a novel method of aggregating multi-source satellite data while accounting for trade-offs in temporal latency and spatial accuracy. We also incorporate Bayesian updating with the goal of creating a daily deforestation probability map.
 
 tags:
 - deforestation
