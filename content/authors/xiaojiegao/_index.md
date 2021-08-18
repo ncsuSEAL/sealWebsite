@@ -18,20 +18,28 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a monster at Monster's University
+bio: I am a PhD candidate with the Center for Geospatial Analytics at North Carolina State University.
 
 interests:
-- We scare because we care.
+- Remote sensing
+- GIS
+- Land surface phenology
+- Climate change
+- Bayesian statistics
 
 education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 20??–Present
+    year: 2019–Present
 
-  - course: Add more courses here
-    institution: Monster's Prep
-    year: 2017 [year of graduation]
+  - course: M.E. in Natural Resources and Environmental Remote Sensing
+    institution: Chengdu Univisersity of Technology, China
+    year: 2016
+
+  - course: B.S. in Geography Information System
+    institution: Chengdu Univisersity of Technology, China
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,19 +48,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:YourEmail@ncsu.edu'
+  link: 'mailto:xgao26@ncsu.edu'
 - icon: twitter
   icon_pack: fab
-  link:
+  link: 
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link:
+  link: 'https://scholar.google.com/citations?hl=en&user=BNXN76oAAAAJ'
 - icon: github
   icon_pack: fab
-  link:
-- icon: linkedin
-  icon_pack: fab
-  link:
+  link: 'https://github.com/MrJGao'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "YourEmail@ncsu.edu"
+email: "xgao26@ncsu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,6 +74,4 @@ user_groups:
 - Graduate Students
 ---
 
-Add your bio here, it can be multiple lines long. See Mirela's site for examples: https://practical-pike-e67a8a.netlify.app/people/.
-
-When you are done, please add a picture of yourself (<= 1MB) in this folder and name the picture "avatar.jpg". See Ian's folder for an example.
+I am a Geospatial Analytics PhD student. I received my B.S. degree in GIS from Chengdu University of Technology, China, and completed my M.E. degree on natural resources and environmental remote sensing as a joint graduate student from Chengdu University of Technology and Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences. Besides, I had 3 years of full-time work experience in GIS industry. My PhD dissertation research focuses on understanding the chilling effects on urban plant spring phenology. My long-term research goal is using remote sensing, GIS, machine learning and other advanced technologies to help us understand human-nature interaction and global climate change.
