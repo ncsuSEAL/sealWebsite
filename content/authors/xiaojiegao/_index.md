@@ -51,7 +51,7 @@ social:
   link: 'mailto:xgao26@ncsu.edu'
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: 'https://twitter.com/mrjgao'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: 'https://scholar.google.com/citations?hl=en&user=BNXN76oAAAAJ'
