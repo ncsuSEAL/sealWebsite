@@ -1,5 +1,5 @@
 ---
-title: Welcome to new SEAL members!
+title: Phenology on the edge
 date: 2019-12-13
 
 # image:
