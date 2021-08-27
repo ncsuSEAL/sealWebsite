@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 20
+weight: 10
 
-title: Lab Updates
+title: Lab publications
 subtitle:
 
 content:
@@ -17,9 +17,9 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: publications
 design:
-  view: 2
+  view: 4
   columns: "1"
 
 ---

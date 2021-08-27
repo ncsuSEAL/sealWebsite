@@ -45,7 +45,7 @@ social:
   link: https://scholar.google.com/citations?user=6bpwOKkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/MirelaGTulbure
+  link: https://https://github.com/jm-gray
 
 
 # Link to a PDF of your resume/CV from the About widget.
