@@ -5,7 +5,7 @@
 
 title: Spatial Ecosystems Analytics Lab (SEAL) # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '© 2021 Spatial Ecosystems Analytics Lab at NCSU | <div>Website icon made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Spatial Ecosystems Analytics Lab at NCSU | Website icon made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
