@@ -4,8 +4,9 @@ date: 2019-12-13
 
 image:
   caption: 'The view from the Smithsonian's ForestGEO plot'
-  focal_point: ""
+  focal_point: ''
   preview_only: false
+  
 ---
 
 Hi everyone! My name is Ian and I am a new PhD student with Josh. As part of our first term, we had to take Josh’s course “Geospatial Data Mining,” in which we learned how to find, manipulate, and analyze satellite images. Our main goal of the course was a project that we designed using some of the geospatial techniques we learned in class. In other years the projects were turned into papers, so I was excited for the possibilities this project had.
