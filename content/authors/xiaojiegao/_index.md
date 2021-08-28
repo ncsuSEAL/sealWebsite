@@ -18,7 +18,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate with the Center for Geospatial Analytics at North Carolina State University.
+bio: PhD candidate at Center for Geospatial Analytics, North Carolina State University.
 
 interests:
 - Remote sensing
@@ -74,4 +74,4 @@ user_groups:
 - Graduate Students
 ---
 
-I am a Geospatial Analytics PhD student. I received my B.S. degree in GIS from Chengdu University of Technology, China, and completed my M.E. degree on natural resources and environmental remote sensing as a joint graduate student from Chengdu University of Technology and Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences. Besides, I had 3 years of full-time work experience in GIS industry. My PhD dissertation research focuses on understanding the chilling effects on urban plant spring phenology. My long-term research goal is using remote sensing, GIS, machine learning and other advanced technologies to help us understand human-nature interaction and global climate change.
+I am a Geospatial Analytics PhD student. I received my B.S. degree in GIS from Chengdu University of Technology, China, and completed my M.E. degree in natural resources and environmental remote sensing as a joint graduate student from Chengdu University of Technology and Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences. Besides, I had 3 years of full-time work experience in GIS industry. My PhD dissertation research focuses on understanding the chilling effects on urban plant spring phenology. My long-term research goal is using remote sensing, GIS, machine learning and other advanced technologies to help us understand human-nature interaction and global climate change.

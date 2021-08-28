@@ -5,21 +5,20 @@ headless: true
 weight: 10
 
 title: Lab publications
-subtitle:
+subtitle: <a href=../../publication/>Search all</a>
 
 content:
-  count: 5
   filters:
     author: ""
-    category: ""
+    category: "lab-related"
     exclude_featured: False
     publication_type: ""
     tag: ""
   offset: 0
   order: desc
-  page_type: publications
+  page_type: publication
 design:
   view: 4
-  columns: "1"
+  columns: "2"
 
 ---

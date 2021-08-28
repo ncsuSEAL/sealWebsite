@@ -1,10 +1,12 @@
 ---
 widget: blank
 headless: true
-weight: 15
+weight: 20
 # height: '350px; background-position:center; background-repeat: no-repeat; background-size: cover'
 title: ''
-# hero_media: seal.png
+
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
+hero_media: 'icon1.png'
 
 design:
   columns: '1'
@@ -16,4 +18,5 @@ design:
 
 ---
 ## Welcome to the <br>Spatial Ecosystems Analytics Lab (SEAL) <br> at NC State University!
+PI: [Josh Gray](../authors/admin)
 <div style="font-size:0.85em">We scare because we care. </div>

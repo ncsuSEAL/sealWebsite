@@ -14,7 +14,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Assistant Professor at Monster's University.
+bio: Assistant Professor at North Carolina State University.
 
 interests:
 - Geospatial analytics
@@ -66,21 +66,15 @@ user_groups:
 - Principal Investigator
 
 ---
-Write a blog here. I am a cool person. Blah blah blah. The stuff below you can edit - this follows what appears on Mirela's site underneath her bio, so edit as you see fit. https://practical-pike-e67a8a.netlify.app/author/mirela-g.-tulbure/
+Dr. Josh Gray is a remote sensing scientist with a love for big datasets, high performance computing, and all things NASA. His passion for understanding global change drives the research agenda for SEAL. Dr. Gray is an assistant professor in the Dept. of Forestry and Environmental Resources and a faculty fellow in the Center for Geospatial Analytics at NC State University in Raleigh, North Carolina.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}CV{{< /staticref >}}
 
 ### Appointments
-{{< icon name="angle-right" pack="fas" >}} Associate Professor North Carolina State University 2019–Present  
-
-{{< icon name="angle-right" pack="fas" >}} Lecturer & Senior Lecturer University of New South Wales 2012–2019  
-
-{{< icon name="angle-right" pack="fas" >}} Lecturer Murdoch University 2011
-
+- Associate Professor North Carolina State University 2019–Present  
+- Lecturer & Senior Lecturer University of New South Wales 2012–2019  
+- Lecturer Murdoch University 2011
 
 ### Teaching at NCSU
-{{< icon name="angle-right" pack="fas" >}} GIS 712 Environmental Earth Observation and Remote Sensing    
-<span style="font-size:0.95em;">I have developed and taught this <a href = "https://www.coursicle.com/ncsu/courses/GIS/712/">course</a> for the first time in autumn 2020 using open source using open source software including Python, Jupyter notebooks, git, and QGIS. A syllabus is available <a href= "https://drive.google.com/file/d/1ScJwfLYje7hvt1zpmTtuS8GzQk0GnvqR/view">here</a>. </span>  
-
-{{< icon name="angle-right" pack="fas" >}} ES 400 Analysis of Environmental Issues    
-<span style="font-size:0.95em;">A capstone <a href = "https://www.coursicle.com/ncsu/courses/ES/400/">course</a>. </span>  
+- GIS 713 Geospatial Data Mining and Analysis
+- [ES 400 Analysis of Environmental Issues](https://www.coursicle.com/ncsu/courses/ES/400/)

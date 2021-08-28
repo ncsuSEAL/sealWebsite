@@ -5,21 +5,21 @@ headless: true
 weight: 20
 
 title: All publications from lab members
-subtitle:
+subtitle: <a href=../../publication/>Search all</a>
 
 content:
   count: 5
   filters:
     author: ""
-    category: ""
+    category: "non-lab-related"
     exclude_featured: False
     publication_type: ""
     tag: ""
   offset: 0
   order: desc
-  page_type: publications
+  page_type: publication
 design:
-  view: 2
-  columns: "1"
+  view: 4
+  columns: "2"
 
 ---

@@ -52,6 +52,7 @@ imaging:
 timeout: 600000
 taxonomies:
   tag: tags
+  pub_tag: pub_tags
   category: categories
   publication_type: publication_types
   author: authors
