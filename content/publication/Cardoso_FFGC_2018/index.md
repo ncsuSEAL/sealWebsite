@@ -11,7 +11,7 @@ authors:
 - Kathryn J. Jeffery
 - David Lehmann
 - Josué Edzang Ndong
-- admin
+- **Ian McGregor**
 - Claire M. Belcher
 - William J. Bond
 - Yadvinder S. Malhi
