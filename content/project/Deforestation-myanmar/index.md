@@ -8,9 +8,9 @@ authors:
 summary: This NASA-funded project aims to develop a novel method of aggregating multi-source satellite data while accounting for trade-offs in temporal latency and spatial accuracy. We also incorporate Bayesian updating with the goal of creating a daily deforestation probability map.
 
 tags:
-- deforestation
+- Deforestation
 - Bayesian
-- time-series
+- Time-series
 
 date: "2021-08-17" 
 show_date: false # do not show date on page

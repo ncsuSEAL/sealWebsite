@@ -8,8 +8,8 @@ authors:
 summary: Meeting future food demand while coping with climate change will require substantial adaptation in smallholder systems. The principal motivation for this investigation is to determine the adaptive potential of smallholder agriculture in North India, Bangladesh, and Nepal, where smallholder communities experience large crop yield gaps, underdevelopment, and widespread poverty.
 
 tags:
-- agriculture
-- climate change
+- Agriculture
+- Climate change
 
 date: "2021-08-16T00:00:00Z"
 show_date: false # do not show date on page
