@@ -1,3 +1,4 @@
+
 ---
 title: "An integrated assessment of particulate respirators used as personal protection from ambient air pollution in Bangkok, Thailand"
 subtitle:
@@ -7,7 +8,7 @@ subtitle:
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Kennedy L. McGuinness
-- Isabella R. Hinks
+- izzihinks
 - Katherine E. Westcott
 - Shabbir E. Gheewala
 
@@ -35,7 +36,7 @@ publication_types: ["2"]
 publication: Journal of Global Health Reports
 publication_short: J. Glob. Health
 
-abstract: The recent increase of fine particulate matter in Bangkok, Thailand has become a widespread public health concern. Wearing a particulate respirator is one method to reduce particulate inhalation and therefore mitigate the adverse health effects of ambient air pollution. This study provides an integrated assessment of seven particulate respirator models based on three criteria: effectivity, cost, and environmental impact. The overall effectivity of each model is evaluated by assessing the product’s features associated with facial fit. The cost criterion reflects current market prices for bulk and individual orders. Thirdly, an environmental impact score is determined for the product life cycle of each respirator using life cycle assessment. The study assesses each respirator as it would be manufactured, distributed, used, and disposed of in Bangkok, Thailand. The integrated assessment results in twelve distinct consumer frameworks, reliant on variations of the three criteria, to provide guidance for policy makers and independent consumers in the selection of particulate respirators to optimally suit their needs. Ultimately, the data suggest that a buyer’s ideal respirator choice for short-term use is a disposable particulate respirator with a head strap. For long-term use, the study recommends a low-cost reusable respirator with an exhalation valve and replaceable filters. The average effectivity of reusable respirators is found to be greater than that of disposable respirators, due to their higher average number of available sizes. Reusable respirators are associated with consistently lower environmental impacts. The short-term cost of disposable respirators is much less than those of reusable models, however prices do converge over time.
+abstract: 'The recent increase of fine particulate matter in Bangkok, Thailand has become a widespread public health concern. Wearing a particulate respirator is one method to reduce particulate inhalation and therefore mitigate the adverse health effects of ambient air pollution. This study provides an integrated assessment of seven particulate respirator models based on three criteria: effectivity, cost, and environmental impact. The overall effectivity of each model is evaluated by assessing the product’s features associated with facial fit. The cost criterion reflects current market prices for bulk and individual orders. Thirdly, an environmental impact score is determined for the product life cycle of each respirator using life cycle assessment. The study assesses each respirator as it would be manufactured, distributed, used, and disposed of in Bangkok, Thailand. The integrated assessment results in twelve distinct consumer frameworks, reliant on variations of the three criteria, to provide guidance for policy makers and independent consumers in the selection of particulate respirators to optimally suit their needs. Ultimately, the data suggest that a buyer’s ideal respirator choice for short-term use is a disposable particulate respirator with a head strap. For long-term use, the study recommends a low-cost reusable respirator with an exhalation valve and replaceable filters. The average effectivity of reusable respirators is found to be greater than that of disposable respirators, due to their higher average number of available sizes. Reusable respirators are associated with consistently lower environmental impacts. The short-term cost of disposable respirators is much less than those of reusable models, however prices do converge over time.'
 
 # Summary. An optional shortened abstract.
 summary: ''
