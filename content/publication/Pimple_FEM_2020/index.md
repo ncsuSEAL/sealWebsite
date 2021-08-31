@@ -9,7 +9,7 @@ subtitle:
 authors:
 - Uday Pimple
 - Dario Simonetti
-- izzihinks
+- **izzihinks**
 - Johan Oszwald
 - Uta Berger
 - Sukan Pungkul
