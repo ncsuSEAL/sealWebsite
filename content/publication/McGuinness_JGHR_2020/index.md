@@ -1,6 +1,7 @@
 ---
 title: "An integrated assessment of particulate respirators used as personal protection from ambient air pollution in Bangkok, Thailand"
 subtitle:
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -10,12 +11,16 @@ authors:
 - Katherine E. Westcott
 - Shabbir E. Gheewala
 
+# Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2020-09-09"
 doi: "https://doi.org/10.29392/001c.14598"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-31"
+publishDate: "2021-08-30"
 
 # indicate if this paper is related to SEAL
 categories: "non-lab-related"
