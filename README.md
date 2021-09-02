@@ -20,7 +20,9 @@ To add a publication, navigate to `content/publications` and create a folder lab
 
 Inside each folder you can have the following 4 items
 - citation file (`cite.bib`): this is a BibTex file with the citation for the paper. If this is added, then it allows people to download the citation from the lab website.
-- pdf of the paper (`<someName>.pdf`): self-explanatory, just note you will need to have this file name referenced in the `index.md` file.
+- pdf of the paper
+  - **NB** If your paper is open access, please just add the URL in the `index.md` file in the "pdf" place in order to save memory.
+  - Otherwise, upload a pdf of the paper and rename the file to be the exact same name as the publication folder
 - an associated image (`featured.jpg`): some image if you want, otherwise the publication will show up only with text on the website.
 - `index.md`: this is the primary metadata for hoow the website renders the publication info. Similar to other index files, this has a specific toml format, so make sure everything is filled out as needed. Remember, if other lab members are on the publication, refer to them using their username on the website, which is all lowercase (e.g. joshgray). This way their user page is linked to the publication.
 
