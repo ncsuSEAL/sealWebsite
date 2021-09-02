@@ -8,7 +8,7 @@ title: All publications from lab members
 subtitle: <a href=../../publication/>Search all</a>
 
 content:
-  count: 5
+  count: 10
   filters:
     author: ""
     category: "non-lab-related"
