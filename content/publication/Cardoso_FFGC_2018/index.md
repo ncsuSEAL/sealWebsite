@@ -42,16 +42,15 @@ summary: ''
 
 pub_tags: [Fire, Tropical Rainforest, Tropical Savanna]
 
-
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.frontiersin.org/articles/10.3389/ffgc.2018.00006/full'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
