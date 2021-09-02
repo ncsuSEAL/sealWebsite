@@ -60,7 +60,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://link.springer.com/article/10.1007/s10021-020-00503-w'
 url_code: ''
 url_dataset: ''
 url_poster: ''

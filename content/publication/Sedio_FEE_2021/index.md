@@ -66,7 +66,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fevo.2021.679638/full'
 url_code: ''
 url_dataset: ''
 url_poster: ''
