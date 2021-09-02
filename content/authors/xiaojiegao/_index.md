@@ -6,6 +6,9 @@ title: Xiaojie Gao
 authors:
 - xiaojiegao
 
+# Bold author name in authors list
+highlight_name: true
+
 # Is this the primary user of the site?
 superuser: false
 
