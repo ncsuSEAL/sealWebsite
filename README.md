@@ -3,6 +3,9 @@ This is the repo that hosts the information used in the [SEAL website](https://n
 
 The URL for the website is currently the basic, free one (ncsu-seal.netlify.app). If we want to have a custom domain, that is easy to do but there is a small cost per year).
 
+## Adding Pictures
+Photos can be added to different website items, like lab member profiles, publications, and lab updates. **PLEASE** make sure you re-size your images to ~ 1MB before including, otherwise we will quickly get to a point where the website is slow to load due to a number of large file size pics. Re-sizing can be done at sites like [this one](https://resizeimage.net/) or [this one](http://www.simpleimageresizer.com/). These were found with a quick google search, there are also others.
+
 ## Updating Content
 Content can either be edited directly in GitHub or by cloning the repository to your local machine, editing files, and pushing back to GitHub. Website deployments (rendering the website) are done automatically with each commit via Netlify, so it's advised that you clone the repo when possible (e.g. push several commits at once, instead of one for each small change). 
 - *NOTE:* currently the Netlify account is linked to Ian's GitHub, but anyone can have access if they want. Please send an email to him asking to be added.
