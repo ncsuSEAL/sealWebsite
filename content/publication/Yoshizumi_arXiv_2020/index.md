@@ -18,6 +18,22 @@ authors:
 - Thom Worm
 - Laura Tateosian
 
+
+# Author notes (optional)
+author_notes:
+- 
+- "co-second-author"
+- "co-second-author"
+- "co-second-author"
+- "co-second-author"
+- "co-second-author"
+- "co-second-author"
+- "co-second-author"
+- "co-second-author"
+- "co-second-author"
+- "co-second-author"
+- 
+
 date: "2020-09-07"
 doi: "arXiv:2009.03390"
 
