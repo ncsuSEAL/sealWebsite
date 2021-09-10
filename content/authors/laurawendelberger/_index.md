@@ -17,9 +17,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: North Carolina State University
-  url: "https://cnr.ncsu.edu/geospatial/"
-- name: North Carolina State University
+- name: North Carolina State University - Statistics
   url: "https://statistics.sciences.ncsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
