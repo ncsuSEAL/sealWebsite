@@ -19,21 +19,30 @@ role: PhD Student
 organizations:
 - name: North Carolina State University
   url: "https://cnr.ncsu.edu/geospatial/"
+- name: North Carolina State University
+  url: "https://statistics.sciences.ncsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a monster at Monster's University
+bio: I am a PhD candidate in the Department of Statistics at North Carolina State University.
 
 interests:
-- We scare because we care.
+- Change detection
+- Model uncertainty
+- Model selection
+- Calibration
 
 education:
   courses:
-  - course: PhD in Geospatial Analytics
+  - course: PhD in Statistics
     institution: North Carolina State University
-    year: 20??–Present
+    year: 2017–Present
 
-  - course: Add more courses here
-    institution: Monster's Prep
+  - course: Master of Statistics
+    institution: North Carolina State University
+    year: 2019 [year of graduation]
+ 
+  - course: BS in Mathematics, BS in Mechanical Enineering
+    institution: University of Notre Dame
     year: 2017 [year of graduation]
 
 # Social/Academic Networking
@@ -43,19 +52,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:YourEmail@ncsu.edu'
-- icon: twitter
-  icon_pack: fab
-  link:
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link:
-- icon: github
-  icon_pack: fab
-  link:
+  link: 'mailto:ljwendel@ncsu.edu'
+#- icon: twitter
+#  icon_pack: fab
+#  link:
+#- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: ai
+#  link:
+#- icon: github
+#  icon_pack: fab
+#  link:
 - icon: linkedin
   icon_pack: fab
-  link:
+  link: 'www.linkedin.com/in/laura-wendelberger-027016b0'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "YourEmail@ncsu.edu"
+email: "ljwendel@ncsu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,6 +80,4 @@ user_groups:
 - Graduate Students
 ---
 
-Add your bio here, it can be multiple lines long. See Mirela's site for examples: https://practical-pike-e67a8a.netlify.app/people/.
-
-When you are done, please add a picture of yourself (<= 1MB) in this folder and name the picture "avatar.jpg". See Ian's folder for an example.
+I am a PhD candidate in the Department of Statistics and began working in the SEAL lab in 2021. As part of a larger team effort both within the SEAL lab and across organizations, I am applying and adapting Bayesian Online Changepoint detection to monitor remote sensing data for change in near-real time while removing any corrupted data points in situ. More broadly, I enjoy collaborating with scientists across many fields to apply and modify statistical methods for new data challenges.
