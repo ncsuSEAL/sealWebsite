@@ -37,11 +37,11 @@ education:
 
   - course: Master of Statistics
     institution: North Carolina State University
-    year: 2019 [year of graduation]
+    year: 2019
  
   - course: BS in Mathematics, BS in Mechanical Enineering
     institution: University of Notre Dame
-    year: 2017 [year of graduation]
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
