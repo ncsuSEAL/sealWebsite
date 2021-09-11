@@ -15,6 +15,6 @@ We want to give a big shout-out to our two new SEAL members, Owen and Jenna, who
 
 <!--more-->
 
-Owen comes to us from University of --- studying .... He is excited to continue his love of GRASS and... Meanwhile, Jenna is arriving from consulting work in Minnesota. Having obtained her BSc in ___ from ___ she is looking forward to ....
+Owen comes to us from University of --- studying .... He is excited to continue his love of GRASS and... Meanwhile, Jenna is arriving from consulting work in Minnesota. Having obtained her BSc in Environmental Science/Geology from the University of St. Thomas she is looking forward to learning how geospatial analytics and remote sensing can be used to address questions in sustainability and earth science.
 
 They are already settling in to classes and enjoying their time with ggplot, so it's looking like it will be a great first term!
