@@ -1,6 +1,6 @@
 ---
-title: Phenology on the edge
-date: 2019-12-13
+title: Fluxes!
+date: 2020-01-15
 
 authors:
 - ianmcgregor
@@ -33,22 +33,36 @@ That being said, our results were a little surprising. When I (Ian) did the sens
 
 {{< figure src="image1.png" >}}
 
-{{< figure src="image1.png" >}}
+{{< figure src="image2.png" >}}
 
-{{< figure src="image1.png" >}}
+{{< figure src="image3.png" >}}
 
-{{< figure src="image1.png" >}}
+{{< figure src="image4.png" >}}
 
 The bulk of the results involved creating the splined variables over the different site-years. Here’s an example from Harvard Forest (arguably one of the best ones for the northern hemisphere, and from Kruger National Park in South Africa (representing the southern hemisphere). The vertical lines show the different thresholds identified separately for fall (prior to GPPmax [100% GPP]) and spring (after GPPmax). After creating these plots for all of the nearly 900 site-years for which we had data, we extracted the day of year pairs for each threshold, and compared to MODIS.
 
 *Please disregard my (Ian’s) terrible placement of the color legend. Red is NEE, blue is GPP, and yellow is RECO (respiration).*
 
-{{< figure src="image1.png" >}}
-
-{{< figure src="image1.png" >}}
+{{< figure src="image5.png" >}}
 
 Not all of the plots were good, though. Some of the flux time series per year looked like this cropland example from Italy, often attributable to different crop regimes but sometimes – inconspicuously – related to missing data. 
+
+{{< figure src="image6.png" >}}
 
 There were several sites like this one that were puzzling us as to why the plots were so different, until we finally realized we hadn’t quantified the amount of missing data per site. Suddenly we had a much better picture of what was going on at some of the sites. 
 
 *Larger bars are indicative of only 1 month in a year having missing data. Smaller bars are thus representative of several months within a year missing data. Notice the prevalence of missing data in sites like US-Var (the group of green bars in the bottom middle).*
+
+{{< figure src="image7.png" >}}
+
+**Image caption**: The original image is very large so this needs some explanation. The y-axis is number of days in a month (0-31), the colors are the different biomes classified by International Geosphere-Biosphere Programme (IGBP), and the x-axis is time in year-months. The plot is a subset of the full missing data dataset in that only site-years with months having >=15 days (at least half the month) missing data are shown. This is also only for the Northern hemisphere sites, though the Southern hemisphere wasn’t as bad.
+
+As for MODIS phenometrics, we extracted phenometric values corresponding to flux site locations from the [MCD12Q2 product](https://lpdaac.usgs.gov/products/mcd12q2v006/) using the [AppEEARS](https://lpdaac.usgs.gov/tools/appeears/) tool provided by USGS. This product stores all the phenometrics of a pheno-cycle based on when the peak EVI value identified. For example, if the green-up (aka onset of greenness increase [OGI]) happens in December 2010, but peak EVI value is identified in March of 2011, then all the phenometrics will be stored in the MCD12Q2 layer of 2011. Therefore, to make the comparison with flux sites reasonable, we considered three years of MODIS layers simultaneously.
+
+{{< figure src="image8.png" >}}
+
+In total, our regression with MODIS ended up looking like this, with all r-squared values >0.6, and the highest sitting at 0.74. According to Josh these were better results than he thought we would find, and indeed it is surprising. MODIS has pixel sizes of 250m, which means that when you’re looking at measured values for a pixel, you’re looking at an aggregated measurement that covers all of that 62,500m2 square. Flux towers, on the other hand, usually have a footprint associated with their data that is dependent on prevailing wind patterns and vegetation structure. Thus, while at some sites the data could be hyper-local, most agree that footprints are often a few km, which is even larger than the MODIS pixel.
+
+All this is to say there are complicated scaling issues that at first glance don’t seem as if they’d result in this high correlation. And yet, we do see results like this, covering multiple biomes around the world. We are pretty excited as it’s the first time this kind of assessment has been done and, perhaps as important, this is the first time someone has run a sensitivity analysis on the FLUXNET variables that clearly shows the (non-)difference between them. Hopefully future researchers can at least use this as a starting point so they aren’t as confused as we were.
+
+So what’s next for us? We hope to make a paper out of this soon, but at the very least we’ve submitted our results for attendance at the May IALE-NA meeting in Toronto (International Association of Landscape Ecology – North America). If you’re heading out that way, you might see us there!
