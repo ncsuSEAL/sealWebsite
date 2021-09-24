@@ -70,8 +70,6 @@ user_groups:
 ---
 Dr. Josh Gray is a remote sensing scientist with a love for big datasets, high performance computing, and all things NASA. His passion for understanding global change drives the research agenda for SEAL. Dr. Gray is an assistant professor in the Dept. of Forestry and Environmental Resources and a faculty fellow in the Center for Geospatial Analytics at NC State University in Raleigh, North Carolina.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/JoshGrayCV.pdf" "newtab" >}}CV{{< /staticref >}}
-
 ### Appointments
 - Assistant Professor, NCSU Dept. of Forestry and Environmental Resources, 2016-present
 - Faculty Fellow, NCSU Center for Geospatial Analytics, 2016–present
