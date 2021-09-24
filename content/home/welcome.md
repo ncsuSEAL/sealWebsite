@@ -19,4 +19,4 @@ design:
 ---
 ## Welcome to the <br>Spatial Ecosystems Analytics Lab (SEAL) <br> at NC State University!
 PI: [Josh Gray](../authors/admin)
-<div style="font-size:0.85em">We scare because we care. </div>
+<div style="font-size:0.85em"> </div>
