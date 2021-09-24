@@ -3,7 +3,7 @@ title: Fluxes!
 date: 2020-01-15
 
 authors:
-- xiaojiegao
+- ianmcgregor
 
 image:
   caption: ''
