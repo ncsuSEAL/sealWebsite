@@ -20,17 +20,19 @@ organizations:
 bio: Assistant Professor at North Carolina State University.
 
 interests:
-- Geospatial analytics
-- add another interest
+- Climate Change
+- Vegetation phenology
+- Agriculture
+- Ecosystem productivity
 
 education:
   courses:
-  - course: Post Doc in Geospatial Science
-    institution: South Dakota State University
-    year: 2009
-  - course: Add another degree
-    institution: Monster's prep uni
-    year: 2008
+  - course: PhD in Geography
+    institution: University of North Carolina, Chapel Hill, NC
+    year: 2012
+  - course: BSc in Environmental Science
+    institution: University of North Carolina, Chapel Hill, NC
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
