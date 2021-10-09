@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: 'pubcon/'
     weight: 40
-  - name: Recruitment
+  - name: Join us
     url: 'recruitment'
     weight: 50
   # - name: Contact
