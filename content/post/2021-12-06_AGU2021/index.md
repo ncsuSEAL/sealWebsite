@@ -1,6 +1,6 @@
 ---
 title: SEAL is excited for AGU!
-date: 2021-12-12
+date: 2021-12-06
 
 authors:
 - ianmcgregor
@@ -10,7 +10,7 @@ image:
   focal_point: ''
   preview_only: true
 ---
-We haven't had many posts here because with the return to a mostly-in-person office format, the semester has apparently flown by. That being said, with the return of AGU this year, SEAL is excited for a number of us to go to New Orleans in person to present our research using both oral and poster presentations. Though some of us are a bit more interested in the beignets than others (*cough* Josh *cough*), we're all looking forward to having a conference experience as a group, especially as it's the first in-person conference 3 of us!
+We haven't had many posts here because with the return to a mostly-in-person office format, the semester has apparently flown by. That being said, with the return of AGU this year (12-17 Dec), SEAL is excited for a number of us to go to New Orleans in person to present our research using both oral and poster presentations. Though some of us are a bit more interested in the beignets than others (*cough* Josh *cough*), we're all looking forward to having a conference experience as a group, especially as it's the first in-person conference 3 of us!
 
 Because AGU is hybrid, the format is a bit different than pre-Covid. Those of us giving oral presentations, for example, have our recorded talks online for viewing for registered attendees. Then, we will be in person for 5-minute overview lightning talks in our respective sessions. Posters will be both online and in-person. If you're at AGU this year, be sure to watch our presentations and/or come see us in person!
 
