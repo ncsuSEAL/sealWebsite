@@ -19,7 +19,7 @@ Here is everyone presenting:
 **Izzi**
 - *Title:* Monitoring Crop Development in Smallholder Farms Using Remotely Sensed Time Series Data Augmentation
 - *Session:* B42C:03, Thursday 16 Dec 10:00 [oral]
-- *Overview:* 
+- *Overview:* Smallholder farms play an integral role in global efforts to achieve food security, but their capacity to adapt to climate changes is largely unknown. Dense remotely sensed time series offer a way to monitor crop development and management practices in smallholder fields. However, time series from public satellite data lack the observation densities required to accurately monitor these changes, and commercial satellite data (e.g., PlanetScope) are financially and computationally costly. We introduce an approach to augment time series of publicly available satellite data with optimally useful PlanetScope observations to determine the minimum amount of commercial PlanetScope data needed to monitor crop development with acceptable uncertainty. 
 
 **Xiaojie**
 - *Title:* Satellite observations underestimate the effect of growing season length on global vegetation productivity
