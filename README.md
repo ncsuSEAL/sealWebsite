@@ -21,6 +21,8 @@ To add lab update (i.e. short post like a blog or news announcement), navigate t
 ### Add a publication
 To add a publication, navigate to `content/publications` and create a folder labeled as Date-journalAbbr-descriptor, so for example "2021-01-04_AWM-Perin-Tulbure" or "2020-12-07_AGU-southeastern-Gaines" (these examples come from Mirela's site). 
 
+**If having issues with the YAML then see Troubleshooting below**
+
 Inside each folder you can have the following 4 items
 - citation file (`cite.bib`): this is a BibTex file with the citation for the paper. If this is added, then it allows people to download the citation from the lab website.
 - pdf of the paper
@@ -35,5 +37,8 @@ To change around how the website looks, including color, background pictures, et
 - `config/_default/` controls the underlying metadata and parameters
 
 ## Troubleshooting
+How do I fix YAML errors?
+- Especially if you're copying content from elsewhere online (e.g. an abstract into a publication `index.md` file), it's best to check the YAML is valid before you try pushing (it will just fail anyways if something is wrong). Here's a helpful site for you to double-check: http://www.yamllint.com/
+
 What happens if the website hasn't updated despite you making changes?
 - Most likely there the rendering process didn't find something where it thought it should. If you don't have access to the Netlify account, either ask Ian to check or ask for access. Usually this is because everything must be in its specific place with a specific name (and references to different files also need to be matched). This can take some trial and error, but one thing that can help is comparing with a fully-done website, like Mirela's [site](https://practical-pike-e67a8a.netlify.app/) and the associated [GitHub repo](https://github.com/MirelaGTulbure/gaec-lab).
