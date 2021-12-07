@@ -30,7 +30,7 @@ Inside each folder you can have the following 4 items
   - Otherwise, upload a pdf of the paper and rename the file to be the exact same name as the publication folder
 - an associated image (`featured.jpg`): some image if you want, otherwise the publication will show up only with text on the website.
 - `index.md`: this is the primary metadata for hoow the website renders the publication info. Similar to other index files, this has a specific toml format, so make sure everything is filled out as needed. Remember, if other lab members are on the publication, refer to them using their username on the website, which is all lowercase (e.g. joshgray). This way their user page is linked to the publication.
-- If you're adding a paper that has a publish date of after the current date (e.g. it is 8 Dec and your paper will be published 14 Jan), then you need to add yesterday's date to the `publishDate` field and the future date to the `date: ` field.
+- If you're adding a paper that has a publish date after the current date (e.g. it is 8 Dec and your paper will be published 14 Jan), then you need to add yesterday's date to the `publishDate:` field and the future date to the `date:` field in order for it to be shown on the website.
 
 ### Default info for the website
 To change around how the website looks, including color, background pictures, etc, see the following, plus the Wowchemy documentation (linked at top) for more details.
