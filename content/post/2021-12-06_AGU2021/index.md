@@ -41,4 +41,6 @@ Here is everyone presenting:
 **Josh**
 - *Title:* Observing Long-Term Annual land Surface Phenology at Medium Spatial Resolution
 - *Session:* B34C-06, Wednesday 15 Dec 15:11 [oral]
-- *Overview:*
+- *Overview:* Time series sparsity has largely prevented the creation of long-term, moderate resolution land surface phenology. This has limited our understanding of local to landscape scale spatial patterns and long term variability. We introduce a Bayesian hierarchical modeling approach and use it to create over 35 years of 30 m resolution phenometrics with uncertainty. These data compare favorably with ground observations and the MSLSP30NA product.
+
+{{< figure src="Gray_and_Gao.png" >}}
