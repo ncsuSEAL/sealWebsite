@@ -26,7 +26,9 @@ Here is everyone presenting:
 **Xiaojie**
 - *Title:* Satellite observations underestimate the effect of growing season length on global vegetation productivity
 - *Session:* B32B-04, Wednesday 15 Dec 10:05 [oral]
-- *Overview:*
+- *Overview:* Vegetation productivity plays a critical role in regulating global carbon cycle dynamics, which is important to understanding future climate warming. Many studies have shown an increase in gross vegetation productivity due to widely observed extended vegetation growing season lengths. However, it is challenging to quantify the sensitivity of vegetation productivity to the extended growing season length over the large spatial scales because vegetation productivity can only be measured directly on the ground. In this study, we used a more extensive ground measured vegetation productivity dataset than previous studies and corresponding satellite observations to investigate the sensitivity of vegetation productivity to growing season length over the globe and across many biome types. We found that satellite observations underestimated the growing season effect on gross vegetation productivity by 30% on average across biome types. But we also suggest that satellite observations can be informative in investigating carbon cycle dynamics over large scale if carefully account for biases and uncertainties.
+
+{{< figure src="Gao_and_Gray.png" >}}
 
 **Ian**
 - *Title:* We Can’t Have It Both Ways - Accepting the Trade-off of Detection Time and Accuracy in Multi-source, Near Real-time Deforestation Monitoring
@@ -38,7 +40,9 @@ Here is everyone presenting:
 **Laura**
 - *Title:* Monitoring Change With Heterogeneous Satellites: A Multivariate Bayesian Online Changepoint Detection Approach
 - *Session:* B45I-1737, Thursday 16 Dec 16:00 [poster]
-- *Overview:* 
+- *Overview:* Near real time change detection is important for a variety of Earth monitoring applications and remains a high priority for remote sensing science. Time series based methods, like CCDC, dominate contemporary approaches to mapping change, and have been adapted to monitoring in near real time. However, these approaches model complementary satellite signals independently, and thus neglect information contained in their covariance. They are also dependent on a relatively long and data rich stable period for model fitting. Further, most approaches provide only binary change indicators, making it difficult to rank likelihood of change. We addressed these shortcomings by building a multivariate model that simultaneously monitors multiple satellite signals using the Bayesian Online Changepoint Detection (BOCPD) algorithm. The approach was used to monitor large-scale anthropogenic disturbances in a variety of environmental contexts using Harmonized Landsat Sentinel data. For typical cases, the median detection latency is 5 clear observations. Simulation results suggest that this explicitly multivariate approach has competitive latency and improved sensitivity for small changes compared to existing methods. Because of the relaxed dependence on an extensive stable period, this method is applicable to shorter time series and multiple change point detection.
+
+{{< figure src="Laura_GA.png" >}}
 
 **Josh**
 - *Title:* Observing Long-Term Annual land Surface Phenology at Medium Spatial Resolution
