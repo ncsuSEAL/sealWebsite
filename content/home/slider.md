@@ -29,21 +29,21 @@ item:
     overlay_filter: 0.8
 
   - title: ''
-    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Surface water networks</div>
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0"></div>
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig3.png'
     overlay_filter: 0.8
 
   - title: ''
-    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">This can be J's image!</div>
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0"></div>
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig4.png'
     overlay_filter: 0.8
 
   - title: ''
-    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Josh giving a talk in NCSU's Visualization Lab</div>
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">J</div>
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig5.png'
