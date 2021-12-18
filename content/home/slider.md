@@ -15,14 +15,14 @@ height: '350px; background-position:center; background-repeat: no-repeat; backgr
 
 item:
   - title: ''
-    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Lab picture!</div>
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0"></div>
     align: left
     overlay_color: '#111'
     overlay_img: 'slider_fig1.png'
     overlay_filter: 0.8
 
   - title: ''
-    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">Nick giving his (1st place!) 3-Minute Thesis talk</div>
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0"></div>
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig2.png'
@@ -43,7 +43,7 @@ item:
     overlay_filter: 0.8
 
   - title: ''
-    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0">J</div>
+    content: <div style="font-size:0.95em;font-weight:bold;position:absolute;bottom:0"></div>
     align: left
     overlay_color: '#555'
     overlay_img: 'slider_fig5.png'
