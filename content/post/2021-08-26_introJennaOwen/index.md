@@ -15,7 +15,7 @@ We want to give a big shout-out to our two new SEAL members, Owen and Jenna, who
 
 <!--more-->
 
-Owen gradutated this past summer from the University of North Georga with his B.S. in Environmental & Spatial Analysis.
+Owen graduated this past summer from the University of North Georga with his B.S. in Environmental & Spatial Analysis.
 He is excited to continue working on established open-souce scientific development (e.g. GRASS) while leveraging the wealth of knowledge within the Lab to create new and efficient systems to answer questions about the earth.
 Meanwhile, Jenna is arriving from consulting work in Minnesota. Having obtained her BSc in Environmental Science/Geology from the University of St. Thomas she is looking forward to learning how geospatial analytics and remote sensing can be used to address questions in sustainability and earth science.
 
