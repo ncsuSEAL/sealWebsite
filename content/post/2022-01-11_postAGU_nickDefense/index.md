@@ -22,4 +22,4 @@ With the new calendar year underway, we are excited for what the coming months w
 
 And of course, if you'd like to become part of our journey, we'd be happy to have you! We currently have openings for a [Post-doc](https://ncsu-seal.netlify.app/recruitment/) and a [PhD student](https://cnr.ncsu.edu/geospatial/academics/phd-in-geospatial-analytics/). Note the PhD application closes ~ early February.
 
-{{< figure src="agu2.jpg" caption="A SEAL dinner out (with some other CGA guests!) in New Orelans" >}}
+{{< figure src="agu2.jpg" caption="A SEAL dinner out (with some other CGA guests!) in New Orleans" >}}
