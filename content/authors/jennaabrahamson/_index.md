@@ -71,7 +71,7 @@ email: "jnabraha@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Current Lab Members
 ---
 
 I am a first year Geospatial Analytics PhD student within the SEAL lab at NCSU.  My current research interests focus on using remote sensing algorithms to locate and characterize environmental change across regional to global scales.  More specifically, I am interested in the impact these changes and subsequent land use dynamics have on water budgets and freshwater availability in the face of a changing climate and growing population.

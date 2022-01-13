@@ -72,7 +72,7 @@ email: "irhinks@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Current Lab Members
 ---
 
 Isabella "Izzi" Hinks is a Geospatial Analytics Ph.D. student, who received B.S. degrees in Computer Science and Environmental Science from the University of North Carolina at Chapel Hill. Her research goal is to develop strategies to improve food security and human-nature interactions in the wake of climate change. Izzi’s current work uses remotely sensed data and household surveys to examine the adaptive potential of smallholder agriculture in poverty-ridden areas. Previously, she used remote sensing algorithms to monitor the rehabilitation of coastal ecosystems in Thailand. Izzi was a founding member of a tech start-up that helps local governments optimize decisions using constituent data, and more recently worked with a nonprofit to support underserved communities during Covid-19.

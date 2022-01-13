@@ -70,7 +70,7 @@ email: "YourEmail@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Current Lab Members
 ---
 
 I am a current first year PhD student within SEAL and the broader Center for Geospatial Analytics at NCSU.

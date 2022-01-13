@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Candidate
+role: CGA and Forestry PhD student, 2016-2022
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate with the Center for Geospatial Analytics at North Carolina State University.
+bio: 
 
 interests:
 - Remote sensing
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 2016–2021
+    year: 2016–2022
 
   - course: MSc in Geography
     institution: University of Georgia
@@ -68,12 +68,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "nfkruska@ncsu.edu"
+email:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Lab Alumni
 ---
 
-Nick Kruskamp is a Geospatial Analytics PhD student. He received his B.S. with a certificate in GIS and M.S. in Geography from the University of Georgia with a focus on geospatial analysis and remote sensing in forested environments. Nick worked for five years in geospatial research, technology development, and policy for the Army Corps of Engineers. Nick’s work focuses on understanding how geospatial technologies help us understand disturbance impacts and the long term changes to the carbon cycle in forested environments. Through the use of remote sensing and GIS technologies, including lidar, high resolution imagery, and ecological modeling, his research aims to answer questions on how we can better map species across the landscape, how spatial pattern of susceptible host species influences forest disease spread, and the implications of disturbance on carbon cycling.
+Nick received his B.S. with a certificate in GIS and M.S. in Geography from the University of Georgia with a focus on geospatial analysis and remote sensing in forested environments. He worked for five years in geospatial research, technology development, and policy for the Army Corps of Engineers. Nick’s work focused on understanding how geospatial technologies help us understand disturbance impacts and the long term changes to the carbon cycle in forested environments. Through the use of remote sensing and GIS technologies, including lidar, high resolution imagery, and ecological modeling, his research aimed to answer questions on how we can better map species across the landscape, how spatial pattern of susceptible host species influences forest disease spread, and the implications of disturbance on carbon cycling.
