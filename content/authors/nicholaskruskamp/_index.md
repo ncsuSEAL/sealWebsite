@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD student, 2016-2021
+role: PhD student, 2016-2022
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 2016–2021
+    year: 2016–2022
 
   - course: MSc in Geography
     institution: University of Georgia
@@ -73,4 +73,4 @@ user_groups:
 - Lab Alumni
 ---
 
-Nick received his B.S. with a certificate in GIS and M.S. in Geography from the University of Georgia with a focus on geospatial analysis and remote sensing in forested environments. He worked for five years in geospatial research, technology development, and policy for the Army Corps of Engineers. Nick’s work focused on understanding how geospatial technologies help us understand disturbance impacts and the long term changes to the carbon cycle in forested environments. Through the use of remote sensing and GIS technologies, including lidar, high resolution imagery, and ecological modeling, his research aimed to answer questions on how we can better map species across the landscape, how spatial pattern of susceptible host species influences forest disease spread, and the implications of disturbance on carbon cycling. Nick graduated with a PhD in CGA and Forestry in 2021, and after assisting NC State's [Data Science Academy](https://datascienceacademy.ncsu.edu/), he joined [RTI International](https://www.rti.org/) as a Geospatial Scientist.
+Nick received his B.S. with a certificate in GIS and M.S. in Geography from the University of Georgia with a focus on geospatial analysis and remote sensing in forested environments. He worked for five years in geospatial research, technology development, and policy for the Army Corps of Engineers. Nick’s work focused on understanding how geospatial technologies help us understand disturbance impacts and the long term changes to the carbon cycle in forested environments. Through the use of remote sensing and GIS technologies, including lidar, high resolution imagery, and ecological modeling, his research aimed to answer questions on how we can better map species across the landscape, how spatial pattern of susceptible host species influences forest disease spread, and the implications of disturbance on carbon cycling. Nick graduated with a PhD in CGA and Forestry in 2022, and after assisting NC State's [Data Science Academy](https://datascienceacademy.ncsu.edu/), he joined [RTI International](https://www.rti.org/) as a Geospatial Scientist.
