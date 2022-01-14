@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate, 2019-
 
 # Organizations/Affiliations
 organizations:
