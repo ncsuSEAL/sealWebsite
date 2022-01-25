@@ -18,8 +18,8 @@ feature:
     description: General research topics related to remote sensing
   - icon: tree
     icon_pack: custom
-    name: Vegetaton Phenology
-    description: Understand vegetation phenology to infer climate change 
+    name: Vegetation Phenology
+    description: Understand vegetation phenology to infer climate change
   - icon: sprout
     icon_pack: custom
     name: Agriculture
