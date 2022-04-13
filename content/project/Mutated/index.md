@@ -7,7 +7,7 @@ authors:
 - laurawendelberger
 - admin
 
-summary: This is a summary
+summary: This project seeks to develop online methods of change detection across increasing large spatial and temporal scales.
 
 tags:
 - Change detection
