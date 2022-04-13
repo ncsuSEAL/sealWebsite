@@ -30,7 +30,7 @@ The other honor was the Interdisciplinary Advancement Award, given to a student 
 
 {{< figure src="banquetLaura.jpg" caption="The honorary CGA student herself" >}}
 
-In our excitement about the awards and the plants outside, we forgot to get a group picture. However! A number of us channeled our collective success directly to helping others. As co-organized by Josh, after the banquet we helped with the Rise Against Hunger Service Event where we were in little assembly lines to pack bags of dry veggies, tofu, and rice into single-meal packets. Thanks Josh!
+In our excitement about the awards and the plants outside, we forgot to get a group picture at the banquet. However! A number of us channeled our collective success directly to helping others. As co-organized by Josh, after the banquet we helped with the Rise Against Hunger Service Event where we were in little assembly lines to pack bags of dry veggies, tofu, and rice into single-meal packets. Thanks Josh!
 
 {{< figure src="riseHunger.jpg" caption="Members of SEAL helping pack food in a small assembly line with some smaller assistants" >}}
 
