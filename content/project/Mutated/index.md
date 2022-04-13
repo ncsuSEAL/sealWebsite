@@ -1,5 +1,5 @@
 ---
-title: MUTATED: Modeling and Understanding using Temporal Analysis of Transient Earth Data
+title: Modeling and Understanding using Temporal Analysis of Transient Earth Data (MUTATED)
 
 authors:
 - jennaabrahamson
