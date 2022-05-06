@@ -8,7 +8,6 @@ authors:
 image:
   caption: ''
   focal_point: ''
-  preview_only: true
 ---
 
 Hard to believe that in just a week, we will be finished with the Spring term here in warm Raleigh, with all the trees fully-leafed out and the dread of the incoming mid-summer humidity slowly starting to settle. But that's ok! We here in SEAL are adaptive if nothing else, and this is clearly evident in how each of our research has progressed over the past few months. Though we all have our community together in this lab, our work is on pretty different trajectories and supports an interdisciplinary learning environment. So! To give y'all an indication of what we're currently up to, here are some small updates from lab members.
