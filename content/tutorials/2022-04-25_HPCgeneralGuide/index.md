@@ -1,4 +1,13 @@
-# General HPC Guide
+---
+title: Getting started with NCSU's HPC
+date: 2022-04-25
+
+authors:
+- ianmcgregor
+- izzihinks
+- xiaojiegao
+- owensmith
+---
 
 <!-- vim-markdown-toc GFM -->
 
@@ -338,7 +347,7 @@ your job scripts use the Bash shell by adding the following to the beginning of
 your script
 
 ```bash
-#!/bin/sh 
+#!/bin/sh
 # ... job commands
 
 source /etc/profile.d/modules.sh

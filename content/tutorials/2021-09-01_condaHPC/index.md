@@ -1,8 +1,16 @@
+---
+title: Getting started with Conda
+date: 2021-09-01
+
+authors:
+- ianmcgregor
+- izzihinks
+---
 # How to set a up a conda environment in HPC (with R)
 
 ## What is conda?
-Conda is an open-source package and environment management software. 
-- Anaconda is an offshoot of conda. 
+Conda is an open-source package and environment management software.
+- Anaconda is an offshoot of conda.
 - Miniconda is a light version of Anaconda.
 
 Both R and Python can be run within conda.
@@ -19,7 +27,7 @@ Steps
 1. Log in to HPC. If you haven't done this before, see [the general HPC guide](https://github.com/ncsuSEAL/sealHPChelp/blob/main/generalGuide.md).
 - `ssh -Y <unityID>@login.hpc.ncsu.edu`
 
-2. Now load conda, then create a tcsh file. 
+2. Now load conda, then create a tcsh file.
 - Enter the commands below in the HPC terminal:
 - `module load conda`
 - `conda init tcsh`
@@ -35,7 +43,7 @@ Steps
 - Get into editing mode by entering `i` in terminal.
 - Then add the following to the file.
 ``` r
-pkgs_dirs: 
+pkgs_dirs:
  - /share/$GROUP/$USER/conda/pkgs
 ```
 - Get out of editing mode by entering `i` again in terminal.
@@ -155,4 +163,4 @@ For example, this is as if Ian was logging in.
 
 To quit an interactive session, type `exit`.
 
-Additional info about conda and environment management can be found [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#setting-environment-variables). 
+Additional info about conda and environment management can be found [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#setting-environment-variables).

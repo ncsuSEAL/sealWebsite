@@ -1,3 +1,13 @@
+---
+title: Sen2Cor
+date: 2021-07-28
+
+authors:
+- ianmcgregor
+- izzihinks
+- xiaojiegao
+---
+
 # Manual Batch S2 L2A sen2cor conversion
 
 ## Rationale
@@ -62,7 +72,7 @@ Getting a large number of images from ESA can be time-consuming now that they ha
   2. Extract the Google Cloud SDK: `tar -xf google-cloud-sdk-344.0.0-linux-x86_64.tar.gz`
   3. Initialize the Cloud SDK via the console (this prevents the command from launching a browser-based authorization flow): `gcloud init --console-only`
   4. Download the zipped gsutil from [here](https://cloud.google.com/storage/docs/gsutil_install)
-     (maybe not this) 
+     (maybe not this)
   5. Unzip gsutil with: `tar xfz gsutil.tar.gz -C /rsstu/users/j/jmgray2/SEAL/YourName`
   6. Activate your conda environment, then run: `conda install -c conda-forge gsutil`
   7. Configure gsutil: `gsutil config` and follow the instructions.
@@ -134,12 +144,12 @@ Primary code
 - you can set `--resolution` to be "10", but note that because the default processes both the 20m and 10m bands, effectively `--resolution 10` is the same as not putting anything (for Sen2Cor v2.9).
 
 Here is an example of code with the set parameters:
-- `/rsstu/users/j/jmgray2/SEAL/yourName/Sen2Cor-02.09.00-Linux64/bin/L2A_Process 
---output_dir /rsstu/users/j/jmgray2/SEAL/yourName/s2Data/L2A/46QEL 
---resolution 10 
---GIP_L2A /rsstu/users/j/jmgray2/SEAL/yourName/Sen2Cor-02.09.00-Linux64/lib/python2.7/site-packages/sen2cor/cfg/L2A_GIPP.xml 
---GIP_L2A_PB /rsstu/users/j/jmgray2/SEAL/yourName/Sen2Cor-02.09.00-Linux64/lib/python2.7/site-packages/sen2cor/cfg/L2A_PB_GIPP.xml 
---debug 
+- `/rsstu/users/j/jmgray2/SEAL/yourName/Sen2Cor-02.09.00-Linux64/bin/L2A_Process
+--output_dir /rsstu/users/j/jmgray2/SEAL/yourName/s2Data/L2A/46QEL
+--resolution 10
+--GIP_L2A /rsstu/users/j/jmgray2/SEAL/yourName/Sen2Cor-02.09.00-Linux64/lib/python2.7/site-packages/sen2cor/cfg/L2A_GIPP.xml
+--GIP_L2A_PB /rsstu/users/j/jmgray2/SEAL/yourName/Sen2Cor-02.09.00-Linux64/lib/python2.7/site-packages/sen2cor/cfg/L2A_PB_GIPP.xml
+--debug
 /rsstu/users/j/jmgray2/SEAL/yourName/s2Data/L1C/46QEL/S2A_MSIL1C_20151116T043132_N0204_R090_T46QEL_20151116T043131.SAFE`
 
 ## Build commands and run batch conversions
@@ -150,21 +160,21 @@ Add the .R and .csh files in [this repository](https://github.com/ncsuSEAL/Sen2C
 
 #### S2_createOrders
 
-The `S2_createOrders.R` script and associated `S2_createOrders.csh` file will develop a list of system commands to run Sen2Cor on all of the images in your L1C directory. The code will segment this list into .Rds files, each with a max length 1,000 commands. The files are segmented into lists of max 1,000 commands due to the temporal limitations of LSF jobs on HPC; jobs in the general HPC queue can run for up to 4 days (5760 minutes), and those in the CNR queue can run for up to 10 days (14400 minutes). These .Rds files will used in the S2_runSen2Cor_batch.R and .csh files to execute these Sen2Cor commands in parallel with Rmpi. 
+The `S2_createOrders.R` script and associated `S2_createOrders.csh` file will develop a list of system commands to run Sen2Cor on all of the images in your L1C directory. The code will segment this list into .Rds files, each with a max length 1,000 commands. The files are segmented into lists of max 1,000 commands due to the temporal limitations of LSF jobs on HPC; jobs in the general HPC queue can run for up to 4 days (5760 minutes), and those in the CNR queue can run for up to 10 days (14400 minutes). These .Rds files will used in the S2_runSen2Cor_batch.R and .csh files to execute these Sen2Cor commands in parallel with Rmpi.
 
-Prior to submitting the job: 
-In the `S2_createOrders.R` file: 
+Prior to submitting the job:
+In the `S2_createOrders.R` file:
 1. Replace the example base path, `/rsstu/users/j/jmgray2/SEAL/YourName`, on line 13 with the path to your personal directory.
 2. If the path to the directory that contains your L1C images is not titled `/s2Data/L1C` within your personal directory, change the path in line 14 to the path to your L1C directory.
 3. Adjust the path to your L2A folder on line 15, if necessary. If the L2A directory does not yet exist, it will be created at the location specified here.
 4. Adjust the path to, and name of, your desired .Rds files on line 17. This is will be the prefix of the output .Rds files (for example, the prefix `all_sen2cor_commands` will result in `all_sen2cor_commands1.rds`, `all_sen2cor_commands2.rds`, etc.).
 5. If your Sen2Cor v2.09 directory is not located directly in your base path, adjust the paths on lines 44, 89, and 90 to match the location of your Sen2Cor directory.
 6. Check to see that your desired Sen2Cor specifications (resolution, debug, GIP_L2A, etc.) are included in the lapply function starting on line 56. Adjust these specifications as necessary.
-7. Submit the job with `bsub < S2_createOrders.csh`. You should now have .Rds files with the names from step 4 in the desired output directory (your s2Data directory, by default). 
+7. Submit the job with `bsub < S2_createOrders.csh`. You should now have .Rds files with the names from step 4 in the desired output directory (your s2Data directory, by default).
 
 ### BEFORE running the batch conversion
-Note that *there must be as much memory free in HPC (Josh’s whole SEAL group) as the memory taken up by the L1C files you want to process.* Otherwise, the batch conversion jobs will crash. 
-- Check on memory using: 
+Note that *there must be as much memory free in HPC (Josh’s whole SEAL group) as the memory taken up by the L1C files you want to process.* Otherwise, the batch conversion jobs will crash.
+- Check on memory using:
   - `cd /rsstu/users/j/jmgray2/SEAL`
   - `du -h` will show memory of all directories/subdirectories in wherever you did `cd`. To only look at top-level directories there, use `du -h --max-depth=1`.
 
@@ -175,26 +185,26 @@ If there is not enough memory, you (and the rest of the SEAL lab) can use GLOBUS
 Using the output from `S2_createOrders.R`, we are now ready to do batch conversion. Simply edit your version of the `S2_runSen2Cor_batch.R` script to be your relative folder path, and then submit `bsub < S2_runSen2Cor_batch.csh` in HPC. For details on the csh file, see below.
 - As the code is running, Sen2Cor has its own output that will hide all other user-annotated progress reports. To get around this, Izzi created a way to have a text file output that will show real-time progress with tile and image labels. This will be put in the `s2Data/L2A/` directory.
 
-**Method** = submitted HPC job. 
+**Method** = submitted HPC job.
 
 For running test images (<=10), you can either submit a job or do an interactive R session on HPC.
 - cd to your SEAL directory
 - run this command `bsub -Is -n 10 -W 180 -R "rusage[mem=28GB]" tcsh`
 - Either activate your conda environment and then `R`, or load R.
 - Run the code in `S2_runSen2Cor_batch.R` line-by-line for your sample images. Each takes ~30 min to process.
-                                                               
+
 ### Notes for running the conversions on HPC
 NB - the way the parameters are set in the `S2_runSen2Cor_batch.csh` are from multiple conversations with Lisa Lowe (HPC admin), who's been super helpful in figuring this out.
 - Conservatively, each image takes 4 GB to process (this is technically higher than what was documented from HPC). The formula is that your max allowable memory should be 4GB * the number of cores in each node.
   - So for a CNR node of 16 cores, this means we want each core in that node to have >= 64GB (4*16). In the csh file, this is listed as `#BSUB -R "rusage[mem=64000]"`.
     - Request MB rather than GB (because the GB estimates are usually rounded, whereas MB are more precise)
   - You need to do ptile (`#BSUB -R span[ptile=N]`) if there are any nodes whose individual cores have less memory than what you are requesting
-    - For example, CNR queue has 133 nodes where each node has 12 cores and each of those has 48GB memory. 
+    - For example, CNR queue has 133 nodes where each node has 12 cores and each of those has 48GB memory.
     - CNR queue also has 3 nodes where each node has 8 cores and each of those has 24GB memory.
     - If you have calculated that you need 12 cores, then you must use ptile to specify how many tasks are assigned to each core because otherwise, HPC may put your tasks on one of the smaller cores, which may cause your job to fail because there’s not enough memory on the node as a whole (this is what determines failure).
       - Reminder that this happens because the `BSUB -x` means exclusive use of the node (but also, even if you don’t have exclusive use, then someone else’s tasks could be assigned and then both your jobs will crash).
   - To see the memory of all nodes, run `lshosts`.
-- Technically, we have higher priority for CNR queues (and more allowable executable time [10 days, compared to 4 on non-CNR queues]), but in practice we are finding we tend to get put into non-CNR queues faster anyway. 
+- Technically, we have higher priority for CNR queues (and more allowable executable time [10 days, compared to 4 on non-CNR queues]), but in practice we are finding we tend to get put into non-CNR queues faster anyway.
   - To find which queues are available to you, simply type: `bqueues -u yourUnityID`
   - If you want to see all of them you can use `bqueues -u lllowe` since Lisa has access to all of them.
   - The maximum amount of time given per queue can be found using `bqueues queue-name`, e.g. `bqueues cnr`.
