@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Candidate, Dept. of Statistics, 2017-
+role: PhD Candidate, Dept. of Statistics, 2017-2022
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: North Carolina State University
-    year: 2017–Present
+    year: 2017–2022
 
   - course: Master of Statistics
     institution: North Carolina State University
@@ -75,7 +75,7 @@ email: "ljwendel@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Lab Alumni
 ---
 
 I am a PhD candidate in the Department of Statistics and began working in the SEAL lab in 2021. As part of a larger team effort both within the SEAL lab and across organizations, I am applying and adapting Bayesian Online Changepoint detection to monitor remote sensing data for change in near-real time while removing any corrupted data points in situ. More broadly, I enjoy collaborating with scientists across many fields to apply and modify statistical methods for new data challenges.
