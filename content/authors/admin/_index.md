@@ -9,7 +9,7 @@ superuser: true
 highlight_name: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -17,7 +17,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor at North Carolina State University.
+bio: Associate Professor at North Carolina State University.
 
 interests:
 - Climate Change
@@ -68,11 +68,12 @@ user_groups:
 - Current Lab Members
 
 ---
-Dr. Josh Gray is a remote sensing scientist with a love for big datasets, high performance computing, and all things NASA. His passion for understanding global change drives the research agenda for SEAL. Dr. Gray is an assistant professor in the Dept. of Forestry and Environmental Resources and a faculty fellow in the Center for Geospatial Analytics at NC State University in Raleigh, North Carolina.
+Dr. Josh Gray is a remote sensing scientist with a love for big datasets, high performance computing, and all things NASA. His passion for understanding global change drives the research agenda for SEAL. Dr. Gray is an associate professor in the Dept. of Forestry and Environmental Resources and a faculty fellow in the Center for Geospatial Analytics at NC State University in Raleigh, North Carolina.
 
 ### Appointments
-- Assistant Professor, NCSU Dept. of Forestry and Environmental Resources, 2016-present
+- Associate Professor, NCSU Dept. of Forestry and Environmental Resources, 2022-present
 - Faculty Fellow, NCSU Center for Geospatial Analytics, 2016–present
+- Assistant Professor, NCSU Dept. of Forestry and Environmental Resources, 2016-2022
 - Research Assistant Professor (2014-2016) and Postdoctoral Research Associate (2012-2014), Boston University 
 
 ### Teaching at NCSU
