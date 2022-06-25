@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Candidate, Dept. of Statistics, 2017-2022
+role: PhD Student, Dept. of Statistics, 2017-2022
 
 # Organizations/Affiliations
 organizations:
