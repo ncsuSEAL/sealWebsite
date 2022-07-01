@@ -31,6 +31,9 @@ publishDate: "2022-06-25T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
+# indicate if this paper is related to SEAL
+categories: "non-lab-related"
+
 # Publication name and optional abbreviated publication name.
 publication: In *Remote Sensing*
 publication_short: In *Remote Sens.*
