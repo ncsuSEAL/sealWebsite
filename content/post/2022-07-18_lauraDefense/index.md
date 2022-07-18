@@ -25,7 +25,7 @@ Laura came to us in December 2020 as a PhD candidate from the stats department, 
 
 Though we wish she could stay on as a lab member and advisor, Laura has more exciting things coming up. Specifically, she is setting her sights on a new postdoctoral research appointment in the Applied Statistics group at [Lawrence Livermore National Laboratory](https://www.llnl.gov/). In sunny northern California, she'll be working with materials scientists to predict metal strength by using physics-based models along with statistical techniques, such as model selection and Bayesian hierarchical modeling.
 
-{{< figure src="laura1.png" caption="Laura training to be a pilot" >}}
+{{< figure src="laura1.jpg" caption="Laura training to be a pilot" >}}
 
 We wish Laura the best of luck on her adventures and we hope her new team appreciates her as much as we do!
 
