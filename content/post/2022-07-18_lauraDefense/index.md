@@ -1,5 +1,5 @@
 ---
-title: Congrats to Laura!
+title: Congrats to Laura on passing her defense!
 date: 2022-07-18
 
 authors:
