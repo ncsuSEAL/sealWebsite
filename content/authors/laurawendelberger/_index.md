@@ -21,7 +21,7 @@ organizations:
   url: "https://statistics.sciences.ncsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in the Department of Statistics at North Carolina State University.
+bio: PhD Statistics
 
 interests:
 - Change detection
@@ -65,9 +65,9 @@ social:
   link: 'www.linkedin.com/in/laura-wendelberger-027016b0'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/WendelbergerCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ljwendel@ncsu.edu"
@@ -78,4 +78,4 @@ user_groups:
 - Lab Alumni
 ---
 
-I am a PhD candidate in the Department of Statistics and began working in the SEAL lab in 2021. As part of a larger team effort both within the SEAL lab and across organizations, I am applying and adapting Bayesian Online Changepoint detection to monitor remote sensing data for change in near-real time while removing any corrupted data points in situ. More broadly, I enjoy collaborating with scientists across many fields to apply and modify statistical methods for new data challenges.
+I worked in the SEAL lab from 2021-2022 during my time working towards a PhD in Statistics. As part of a larger team effort both within the SEAL lab and across organizations, I applied and adapted Bayesian Online Changepoint detection to monitor remote sensing data for change in near-real time while removing any corrupted data points in situ. More broadly, I enjoy collaborating with scientists across many fields to apply and modify statistical methods for new data challenges. I am now a postdoctoral researcher at Lawrence Livermore National Laboratory.
