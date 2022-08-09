@@ -26,8 +26,8 @@ bio: Geospatial Analytics PhD student within the SEAL lab at North Carolina Stat
 interests:
 - Remote Sensing
 - Climate Change
-- Large-Scale Change Monitoring
-- Natural Resources
+- Change Detection
+- Biogeochemical Process Modeling
 
 education:
   courses:
@@ -74,4 +74,4 @@ user_groups:
 - Current Lab Members
 ---
 
-I am a first year Geospatial Analytics PhD student within the SEAL lab at NCSU.  My current research interests focus on using remote sensing algorithms to locate and characterize environmental change across regional to global scales.  More specifically, I am interested in the impact these changes and subsequent land use dynamics have on water budgets and freshwater availability in the face of a changing climate and growing population.
+I am a first year Geospatial Analytics PhD student within the SEAL lab at NCSU.  My current research interests focus on using remote sensing algorithms to locate and characterize landscape changes across regional to global scales in an online monitoring mode.  Additionally, I am also interested in mapping and detecting inundation changes in forested, coastal wetland ecosystems and assessing the impact of short-term inundation events on biogeochemical processes related to carbon storage and methane emissions.
