@@ -16,7 +16,7 @@ Each lab member has their own "page" on the website, under the [Team section](ht
 - If you do not have one of the social options (e.g. you don't have a Twitter), then remember to comment out those lines with `#`.
 
 ### Add a lab update
-To add lab update (i.e. short post like a blog or news announcement), navigate to `content/post` and create a folder starting with the date and a short qualifying of the name, for example "2021-08-15_testPost". Inside the folder create a file named `index.md` that files the standard toml format; see the [sample post](https://github.com/ncsuSEAL/sealWebsite/tree/master/content/post/2021-08-15) for an example. You can also add an associated image (`image.png`) if you want.
+To add lab update (i.e. short post like a blog or news announcement), navigate to `content/post` and create a folder starting with the date and a short qualifying of the name, for example "2021-08-15_testPost". Inside the folder create a file named `index.md` that files the standard toml format; see the [sample post](https://github.com/ncsuSEAL/sealWebsite/tree/master/content/post/2021-08-26_introJennaOwen) for an example. You can also add an associated image (`image.png`) if you want.
 
 ### Add a publication
 To add a publication, navigate to `content/publications` and create a folder labeled as Date-journalAbbr-descriptor, so for example "2021-01-04_AWM-Perin-Tulbure" or "2020-12-07_AGU-southeastern-Gaines" (these examples come from Mirela's site). 
