@@ -3,6 +3,11 @@ This is the repo that hosts the information used in the [SEAL website](https://n
 
 The URL for the website is currently the basic, free one (ncsu-seal.netlify.app). If we want to have a custom domain, that is easy to do but there is a small cost per year).
 
+> **Note** 
+> 
+> We can edit this Github repository online or offline, once we update the files, Netlify will sync the website after a very short time delay. But, sometimes the website could fail to render due to issues like grammar errors in some files especially when many things are added to the repository. There is a way to debug and preview the website locally using our computers, to configure offline debug settings, please see the end of this document.
+
+
 ## Adding Pictures
 Photos can be added to different website items, like lab member profiles, publications, and lab updates. **PLEASE** make sure you re-size your images to ~ 1MB before including, otherwise we will quickly get to a point where the website is slow to load due to a number of large file size pics. Re-sizing can be done at sites like [this one](https://resizeimage.net/) or [this one](http://www.simpleimageresizer.com/). These were found with a quick google search, there are also others.
 
@@ -37,7 +42,39 @@ To change around how the website looks, including color, background pictures, et
 - `content/home` controls the home page
 - `config/_default/` controls the underlying metadata and parameters
 
+### Offline debug with `Hugo`
+
+> **Cautiion**
+> 
+> Normally, this part is not necessary if we just want to add some content to the website. Unless there are some errors rendering the website. 
+
+The website is created by the [Wowchemy Academic Template](https://wowchemy.com/) using [Hugo](https://github.com/gohugoio/hugo), so we can configure Hugo on our local computer and debug the website. The method of configuring Hugo varies by the operation system we use. There is a [comprehensive documentation](https://gohugo.io/getting-started/installing/) describing the required steps, but special attention should be paid to some stuff. 
+
+#### Install Hugo
+
+If we use Mac OS and Linux, it's easy, we can just follow the [documentation](https://gohugo.io/getting-started/installing/) to install Hugo. But, be sure to choose **version 0.87.0** as our website template depends on that version. Newer version could introduce compatibility issues. 
+
+Here, we describe the configuration steps for Windows machines without using Chocolatey or Scoop. We use the pre-compiled Hugo binary.
+
+1. Download [Hugo extended for Windows](https://github.com/gohugoio/hugo/releases/tag/v0.87.0) binary version 0.87.0. *Be sure to download "hugo extended", not "hugo", it has extended functionalities used by our website template*. 
+2. Unzip the downloaded file to a system folder, for example, `C:/Program Files`. The folder should have three files: `hugo.exe`, `LICENSE`, and `README.md`. 
+3. Download and install [Go](https://go.dev/dl/) if don't have one installed on the machine. The installation of Go is straightforward and thus skipped here.
+4. Add the Hugo folder to system Path. Right click on the **Start** button -> Click on **System** -> **Advanced System Settings** -> **Environment Variables**. Then, in the **User variables** section, select the row labeled **“Path”** and click the **Edit...** button. In the popped up dialog, click the **Browse…** button and select the directory to which **hugo.exe** was extracted, for example, `C:/Program Files/hugo_extended_0.87.0_Windows-64bit/`. Click **OK** at every window to exit.
+5. Open a terminal and execute `hugo help` to check whether the installation has succeed. 
+
+#### Debug the website
+
+1. Clone the website repository to the local machine using `git clone`, open up a terminal and `cd` to that folder. 
+2. In the terminal, execute `hugo server -D`, the website should be compiled and can be found in a web browser using the address `http://localhost:1313/`. The argument `-D` stands for `debug`, so any warning and error information would be shown in the terminal. 
+3. To close the server, press `CTRL + C` in the terminal.
+
+Hugo supports live update, which means when the local server is running, changing the content of the website would trigger a rendering event and update the local previewing website. However, the live update does not handle structure changes, which means for example when adding a new blog post folder in the `post` directory, we'd have to quit and restart the hugo server to see it.
+
+
+----
+
 ## Troubleshooting
+
 How do I fix YAML errors?
 - Especially if you're copying content from elsewhere online (e.g. an abstract into a publication `index.md` file), it's best to check the YAML is valid before you try pushing (it will just fail anyways if something is wrong). Here's a helpful site for you to double-check: http://www.yamllint.com/
 
