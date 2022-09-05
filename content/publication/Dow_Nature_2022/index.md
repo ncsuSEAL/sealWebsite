@@ -44,7 +44,7 @@ abstract: As the climate changes, warmer spring temperatures are causing earlier
 # Summary. An optional shortened abstract.
 summary: ''
 
-pub_tags: [Temperate Forest]
+pub_tags: [Temperate Forest, Phenology]
 
 # Display this page in the Featured widget?
 featured: false
