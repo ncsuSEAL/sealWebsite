@@ -20,6 +20,6 @@ On the flip side, this Fall marks an increase in the SEAL family! This term we w
 
 This past weekend, we had a full lab get together to celebrate both Laura's leaving and Grace's onboarding. Here's to more full lab pictures and events in the near future!
 
-{{< figure src="labPic.jpg" caption="A group of SEALs" >}}
+{{< figure src="labPic.jpg" caption="A pod of SEALs" >}}
 
 In some quick other news, Ian successfully presented his research at the Ecological Society of America ([ESA](https://www.esa.org/)) conference in Montreal in mid-August, and he will be presenting a poster soon at the Forest Disturbance and Ecosystem Dynamics Symposium near Munich, Germany. Looking ahead, a number of us at SEAL (and CGA in general) are planning to attend the [AGU](https://www.agu.org/Fall-Meeting/Pages/Present/Abstracts) conference in Chicago this year. We just need to receive the confirmation emails first!
