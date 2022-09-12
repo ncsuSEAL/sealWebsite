@@ -6,7 +6,7 @@ authors:
 - ianmcgregor
 
 image:
-  caption: ''
+  caption: 'Some SEALs at a Durham Bulls game'
   focal_point: ''
 ---
 
@@ -16,7 +16,7 @@ Aside from normal university changes, we have two big changes here in our lab. T
 
 {{< figure src="lauraCard.jpg" caption="A final goodbye for Laura created by Jenna" >}}
 
-On the flip side, this Fall marks an increase in the SEAL family! This term we welcome [Grace](https://ncsu-seal.netlify.app/authors/gracechoi/), coming to us after a Master's of Environmental Management at Duke University. She will be helping Josh with the X project,
+On the flip side, this Fall marks an increase in the SEAL family! This term we welcome [Grace](https://ncsu-seal.netlify.app/authors/gracechoi/), coming to us after a Master's of Environmental Management at Duke University. She will be helping Josh with a new project investigating global, long-term phenology variability using MODIS. Specifically, the project will be focusing on phenology changes over the MODIS era (since 2000), phenology trends and their impact on seasonal carbon fluxes, and using phenology to characterize how droughts are affecting ecosystems. Grace will be an integral part of the research team, and we know she will do well! She is already taking her first classes and getting used to the new classes and CGA structure with her new cohort.
 
 This past weekend, we had a full lab get together to celebrate both Laura's leaving and Grace's onboarding. Here's to more full lab pictures and events in the near future!
 
