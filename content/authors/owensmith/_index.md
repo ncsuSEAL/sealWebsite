@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Student, 2021-
+role: he/him/his <br /> PhD Student, 2021-
 
 # Organizations/Affiliations
 organizations:
