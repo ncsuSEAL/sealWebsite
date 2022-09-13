@@ -65,7 +65,6 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-<br />
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "irhinks@ncsu.edu"
