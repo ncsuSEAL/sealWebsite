@@ -48,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:irhinks@ncsu.edu'
-#- icon: twitter
-#  icon_pack: fab
-#  link:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/hinks_thinks
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=6KDXpH0AAAAJ
@@ -65,6 +65,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+<br />
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "irhinks@ncsu.edu"
