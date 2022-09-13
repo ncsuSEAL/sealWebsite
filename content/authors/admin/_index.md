@@ -9,7 +9,7 @@ superuser: true
 highlight_name: true
 
 # Role/position
-role: Associate Professor
+role: he/him/his <br /> Associate Professor
 
 # Organizations/Affiliations
 organizations:
