@@ -16,6 +16,9 @@ main:
   - name: Publications
     url: 'pubcon/'
     weight: 40
+  - name: Posters
+    url: "poster"
+    weight: 45
   - name: Tutorials
     url: 'tutorials'
     weight: 50
