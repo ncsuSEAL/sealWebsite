@@ -23,6 +23,10 @@ Each lab member has their own "page" on the website, under the [Team section](ht
 ### Add a lab update
 To add lab update (i.e. short post like a blog or news announcement), navigate to `content/post` and create a folder starting with the date and a short qualifying of the name, for example "2021-08-15_testPost". Inside the folder create a file named `index.md` that files the standard toml format; see the [sample post](https://github.com/ncsuSEAL/sealWebsite/tree/master/content/post/2021-08-26_introJennaOwen) for an example. You can also add an associated image (`image.png`) if you want.
 
+### Add a poster picture
+If you have a poster you'd like to add to our image gallery, navigate to `assets/media/albums/poster_img` and upload a png (or jpg) of your poster there. After adding your picture, navigate to `content/poster/poster_gallery.md` and add the details for your poster following the examples of the other ones. Here you can add a caption, for example labeling the event at which you presented your poster.
+- **Please** make sure your file is < 5 MB maximum; we don't want to bog down the website with large files when they don't have to be.
+
 ### Add a publication
 To add a publication, navigate to `content/publications` and create a folder labeled as Date-journalAbbr-descriptor, so for example "2021-01-04_AWM-Perin-Tulbure" or "2020-12-07_AGU-southeastern-Gaines" (these examples come from Mirela's site). 
 
