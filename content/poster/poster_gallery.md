@@ -10,7 +10,7 @@ headless: false
 weight: 1
 
 title: Lab poster examples
-subtitle: Please click on a poster to see a caption showing at which event the poster was presented.
+subtitle: Please click on a poster to see details about the event at which the poster was presented.
 
 design:
   columns: '1'
@@ -18,19 +18,19 @@ design:
 gallery_item:
 - album: poster_img
   image: 2020-02_Gao_cnrGRS.png
-  caption: CNR Graduate Research Symposium (Feb. 2020)
+  caption: CNR Graduate Research Symposium (Feb. 2020, NCSU)
 
 - album: poster_img
   image: 2020-02_McGregor_cnrGRS.png
-  caption: CNR Graduate Research Symposium (Feb. 2020)
+  caption: CNR Graduate Research Symposium (Feb. 2020, NCSU)
   
 - album: poster_img
   image: 2022-04_Gao_ncsuGRS.png
-  caption: NCSU Graduate Research Symposium (Apr. 2022)
+  caption: NCSU Graduate Research Symposium (Apr. 2022, NCSU)
   
 - album: poster_img
   image: 2022-09_McGregor_edfm.png
-  caption: NCSU Graduate Research Symposium (Sep. 2022)
+  caption: Forest Disturbance and Ecosystem Dynamics Symposium (Sep. 2022, Germany)
 
 
 ---
