@@ -4,16 +4,29 @@
 widget: blank
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 1
 
 title: 
-subtitle:
+subtitle: 
 
 design:
   columns: '1'
+
+gallery_item:
+- album: poster_img
+  image: Gao_2020_GRS.png
+  caption: CNR Graduate Research Symposium (2020)
+
+- album: poster_img
+  image: Gao_2022_GSR.png
+  caption: NCSU Graduate Research Symposium (2022)
+
+
 ---
 
-{{< gallery album="poster_img" >}}
+{{< gallery album="poster_img">}}
+
+
