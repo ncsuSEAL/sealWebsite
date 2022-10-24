@@ -25,6 +25,7 @@ To add lab update (i.e. short post like a blog or news announcement), navigate t
 ### Add a poster picture
 If you have a poster you'd like to add to our image gallery, navigate to `assets/media/albums/poster_img` and upload a png (or jpg) of your poster there. After adding your picture, navigate to `content/poster/poster_gallery.md` and add the details for your poster following the examples of the other ones. Here you can add a caption labeling the event at which you presented your poster.
 - **Please** make sure your file is < 5 MB maximum; we don't want to bog down the website with large files when they don't have to be.
+  - To re-size your images, please see the section above labeled `Adding Pictures`.
 - Please also label your file as `YYYY-MM_lastName_conferenceAbbrv.png` to be consistent.
 
 ### Add a publication
