@@ -5,8 +5,7 @@ The URL for the website is currently the basic, free one (ncsu-seal.netlify.app)
 
 > **Note** 
 > 
-> We can edit this Github repository online or offline, once we update the files, Netlify will sync the website after a very short time delay. But, sometimes the website could fail to render due to issues like grammar errors in some files especially when many things are added to the repository. There is a way to debug and preview the website locally using our computers, to configure offline debug settings, please see the end of this document.
-
+> We can edit this Github repository online or offline; once we update the files, Netlify will sync the website after a very short time delay. But, sometimes the website could fail to render due to issues in some files, especially when many things are added to the repository. There is a way to debug and preview the website locally using our computers. To configure offline debug settings, please see the end of this document.
 
 ## Adding Pictures
 Photos can be added to different website items, like lab member profiles, publications, and lab updates. **PLEASE** make sure you re-size your images to ~ 1MB before including, otherwise we will quickly get to a point where the website is slow to load due to a number of large file size pics. Re-sizing can be done at sites like [this one](https://resizeimage.net/) or [this one](http://www.simpleimageresizer.com/). These were found with a quick google search, there are also others.
