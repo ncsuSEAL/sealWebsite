@@ -31,6 +31,11 @@ gallery_item:
 - album: poster_img
   image: 2022-09_McGregor_edfm.png
   caption: Forest Disturbance and Ecosystem Dynamics Symposium (Sep. 2022, Germany)
+  
+- album: poster_img
+  image: 2022-12_Abrahamson_AGU.jpg
+  caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, Illinois)
+
 
 
 ---
