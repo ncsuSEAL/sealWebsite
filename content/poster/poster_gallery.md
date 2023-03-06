@@ -33,8 +33,12 @@ gallery_item:
   caption: Forest Disturbance and Ecosystem Dynamics Symposium (Sep. 2022, Germany)
   
 - album: poster_img
+  image: 2022-10_Hinks_NASA-LCLUC-Meeting.png
+  caption: 2021-22 NASA LCLUC Science Team Meeting & Silver Jubilee Celebration (Oct. 2022, Bethesda, MD)
+  
+- album: poster_img
   image: 2022-12_Abrahamson_AGU.jpg
-  caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, Illinois)
+  caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, IL)
 
 
 
