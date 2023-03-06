@@ -65,7 +65,7 @@ url_video: ''
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  caption: 'Bayesian hierarchical model results. (a) Gross primary productivity (GPP) metrics-based model with biome-level intercepts and slopes; (b) GPP metrics-based model with site-level intercepts and slopes; (c) Moderate Spatial Resolution Imaging Spectroradiometer (MODIS) LSP-based model with biome-level intercepts and slopes; (d) MODIS LSP-based model with site-level intercepts and slopes; (e) Comparison showing the normalized effect of GPP metrics- and LSP-based models on model results with site-level intercepts and slopes. Bars show 95% Bayesian credible intervals. The larger red and blue points in panel (e) show the overall effect across all biomes from the LSP- and GPP-derived metrics, respectively. ΣGPP (Unit: gCm−2 yr−1) is the annual GPP at each EC tower.'
+  caption: 'Bayesian hierarchical model results (Fig 3 of the paper)'
   focal_point: "Smart"
   Placement: 1
   preview_only: false
