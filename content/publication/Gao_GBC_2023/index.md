@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2023-03-06"
-doi: "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GB007462"
+doi: "10.1029/2022GB007462"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-06"
