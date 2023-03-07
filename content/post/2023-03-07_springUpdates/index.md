@@ -1,0 +1,25 @@
+---
+title: Spring 2023 updates
+date: 2023-03-07
+
+authors:
+- ianmcgregor
+---
+
+Another term, another round of busy-ness and good news to share! The lab has certainly been keeping busy since the winter holidays with both research pushes and general accomplishments. First among those at the end of January was our CGA banquet, an annual event where all CGA members are invited to a dinner and awards are given out to people who have excelled within the department. This year (under the sleepy eyes of a sloth) our own Izzi Hinks won the Gladys West award! The award is given to 1 student and 1 staff at the Center who are recognized as hidden figures and serve as role models as well as exceed expectations, yet aren't often recognized. From the [news article](https://cnr.ncsu.edu/geospatial/news/2023/02/09/celebrating-our-community-spring2023/):
+- *One nominator said, “As co-president of GGSO, Izzi Hinks works tirelessly to advocate for students, improve inclusivity and build community at the Center. She consistently steps up to make sure nothing falls through the cracks and is always on top of our to-do list. GGSO would not function as it does without her dedication.” Another nominator said, Izzi “put a considerable amount of time and effort into helping conduct the student financial well-being survey this past year. Not many people realize she also led the effort in presenting the results of this survey to the Center’s Steering Committee all on her own and did an amazing job advocating on behalf of all of us to get student stipends raised. Whether it’s knocking it out of the park with her oral presentation at AGU or being one of the best sources of advice for all things technical to anyone in the Center, Izzi continues to be a remarkable role model to all to all who come in contact with her!”*
+
+{{< figure src="banquet1.jpg" caption="Izzi and other award winners!" >}}
+
+Aside from the awards, we always look forward to the free dinner and a chance to see a different place in the Raleigh area. The second year this occurred was one in of the ballrooms in the Talley student union, and the last year was at the JC Raulston Arboretum close to campus. This year, we had fun on the top floor of the NC Museum of Natural Sciences downtown, and even got to see a sloth moving around before its bedtime (quite literally, as the lights were turned off).
+
+{{< figure src="lab.png" caption="The full lab!" >}}
+{{< figure src="banquet2.png" caption="Looking for sloths" >}}
+
+Other accomplishments so far this term have still been research-based, but are progressions to be celebrated, nonetheless. The MUTATED team (Owen, Jenna, Josh) had a successful site visit up in Washington DC in January, where they got to ... In the meantime, the lab was super busy all of January and some of February prepping and finalizing their NASA FINESST submissions! Although not as demanding as the GFRP, the process was still challenging yet allowed those of us submitting to really hone in, develop research ideas, and draft a proposal. Fingers crossed for notifications later this summer! Finally for accomplishments, the first lab paper (i.e. Josh + > 1 lab member) was accepted and published in Biogeochemical Cycles, a mere ~3 years after we first set a deadline for ourselves to submit! (whoops)! Huge congrats to Xiaojie Gao for his newest first-author paper, and spearheading the analysis and responses to reviewers! Check out the open-access paper [here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022GB007462) and feel free to read the [press release](https://news.ncsu.edu/2023/03/scientists-use-satellites-to-track-earth-greening-amid-climate-change/) of the article.
+
+{{< figure src="mutated.jpg" caption="Accenture building" >}}
+
+And of course, it wouldn't be another term without research updates. Briefly, everyone is making good progress, whether that's fully nailing down ideas for our dissertations, or making the final push to the finish line. Xiaojie and Ian are expecting to graduate this coming summer and are currently planning to have their final defenses in a few months. Otherwise, about half of us are in the middle of classes and enjoying the walk over to the stats building with our first false (fool's) [spring](https://www.pbsnc.org/blogs/science/north-carolina-weather-trends/). Yet even though it's springtime, somehow class registration for the Fall already opens in less than a month? At any rate, we are looking forward to a lab trip out to Emerald Isle in May! No hanggliding this time, but we're crossing our fingers for warmer temperatures and no frightening, conniving crabs that sneak up on you at night.
+
+{{< figure src="spring.jpg" caption="Maybe false, but still spring" >}}
