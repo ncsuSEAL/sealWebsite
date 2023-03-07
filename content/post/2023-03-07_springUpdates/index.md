@@ -22,4 +22,4 @@ Other accomplishments so far this term have still been research-based, but are p
 
 And of course, it wouldn't be another term without research updates. Briefly, everyone is making good progress, whether that's fully nailing down ideas for our dissertations, or making the final push to the finish line. Xiaojie and Ian are expecting to graduate this coming summer and are currently planning to have their final defenses in a few months. Otherwise, about half of us are in the middle of classes and enjoying the walk over to the stats building with our first false (fool's) [spring](https://www.pbsnc.org/blogs/science/north-carolina-weather-trends/). Yet even though it's springtime, somehow class registration for the Fall already opens in less than a month? At any rate, we are looking forward to a lab trip out to Emerald Isle in May! No hanggliding this time, but we're crossing our fingers for warmer temperatures and no frightening, conniving crabs that sneak up on you at night.
 
-{{< figure src="spring.jpg" caption="Maybe false, but still spring" >}}
+{{< figure src="hotpot.jpg" caption="Lab dinner with hot pot!" >}}
