@@ -12,4 +12,4 @@ In her research, Jenna maps daily inundation at high spatial and temporal resolu
 
 Congratulations, Jenna, on this very well-deserved award and prestigious fellowship! 
 
-To learn more about Jenna and her work, visit [her page on our website](https://ncsu-seal.netlify.app/authors/jennaabrahamson/) and follow her on [Twitter](https://twitter.com/JennaAbrahamson). 
+To learn more about Jenna and her work, visit [her website](https://jen-abrahamson.github.io/index.html) and [her page on our website](https://ncsu-seal.netlify.app/authors/jennaabrahamson/), and follow her on [Twitter](https://twitter.com/JennaAbrahamson). 
