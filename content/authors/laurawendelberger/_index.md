@@ -50,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ljwendel@ncsu.edu'
+  link: 'mailto:wendelberger1@llnl.gov'
 #- icon: twitter
 #  icon_pack: fab
 #  link:
@@ -67,10 +67,10 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/WendelbergerCV.pdf
+  link: uploads/WendelbergerCV-2.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ljwendel@ncsu.edu"
+email: "wendelberger1@llnl.gov"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
