@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: he/him/his <br /> PhD Candidate, 2019-
+role: he/him/his <br /> PhD Candidate, 2019-2023
 
 # Organizations/Affiliations
 organizations:
@@ -76,7 +76,7 @@ email: "imcgreg@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Lab Alumni
 ---
 
 I am currently a PhD candidate (!) here at SEAL, focusing on remote sensing and deforestation in Myanmar. The proliferation of satellite imagery has facilitated the analysis of deforestation trends using multi-source time series approaches. This long-term combination of data sources can be crucial for near real-time (NRT) monitoring in tropical regions with extensive cloud cover. Yet despite recent progress, methods in multi-source, NRT deforestation monitoring have experienced issues with trade-offs between accuracy and latency, the lack of external spatial data, and general inability to incorporate users into the workflow. To address these limitations, my dissertation focused on three main topics: first, a novel, NRT detection algorithm was created to explicitly assess multiple spectra of trade-offs; second, landscape processes were incorporated into the algorithm using a Bayesian approach; and finally, we expanded the methodology to develop a continuously-adapting model by integrating input from *in-situ* users. My current plan is to graduate in Summer 2023, after which I will be joining the Cary Institute for Ecosystem Studies as a postdoc. For other general information about me, please see my <a href = "https://ianmcgregor.netlify.app/"> personal website</a>.
