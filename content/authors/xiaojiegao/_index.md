@@ -13,7 +13,7 @@ highlight_name: true
 superuser: false
 
 # Role/position
-role: he/him/his <br /> PhD Candidate, 2019-
+role: he/him/his <br /> PhD Candidate, 2019-2023
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,7 @@ email: "xgao26@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Lab Alumni
 ---
 
 I am a Geospatial Analytics PhD student. I received my B.S. degree in GIS from Chengdu University of Technology, China, and completed my M.E. degree in natural resources and environmental remote sensing as a joint graduate student from Chengdu University of Technology and Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences. Besides, I had 3 years of full-time work experience in GIS industry. My PhD dissertation research focuses on understanding the chilling effects on urban plant spring phenology. My long-term research goal is using remote sensing, GIS, machine learning and other advanced technologies to help us understand human-nature interaction and global climate change.
