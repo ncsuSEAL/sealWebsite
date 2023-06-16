@@ -6,11 +6,9 @@ authors:
 - jennaabrahamson
 
 image:
-  caption: ''
+  caption: 'Ian, Josh, and J'
   focal_point: ''
 ---
-
-{{< figure src="Ian_J_Josh.jpg" caption="Ian, Josh, and J" >}}
 
 
 A big change is coming to the SEAL lab with the departure of Ian (now Dr. McGregor) and J (now Dr. Gao) as they successfully defended their dissertations this summer and will be moving on from their time at NCSU! Ian and J both joined the SEAL lab in the Fall of 2019 as members of the Center for Geospatial Analytics’ first cohort. Ian and J both went on to be awarded the prestigious *NASA FINESST* grant which funded their dissertation research, and both presented the findings of their work at AGU’s Annual Meeting multiple times. Ian’s research focused on the development of a novel near-real-time algorithm for monitoring deforestation highlighting an application in Myanmar. J’s work developed a novel land surface phenology product in addition to analyzing the effects of urban heat islands on spring phenology. For more information feel free to check out their posters and publications listed on the website!
