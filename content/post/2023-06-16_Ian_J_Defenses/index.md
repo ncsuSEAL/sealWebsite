@@ -1,6 +1,6 @@
 ---
 title: Congrats to Ian and J on passing their defenses!
-date: 2022-06-18
+date: 2023-06-16
 
 authors:
 - jennaabrahamson
