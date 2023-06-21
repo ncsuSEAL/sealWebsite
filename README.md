@@ -84,4 +84,7 @@ How do I fix YAML errors?
 - Especially if you're copying content from elsewhere online (e.g. an abstract into a publication `index.md` file), it's best to check the YAML is valid before you try pushing (it will just fail anyways if something is wrong). Here's a helpful site for you to double-check: http://www.yamllint.com/
 
 What happens if the website hasn't updated despite you making changes?
-- Most likely there the rendering process didn't find something where it thought it should. If you don't have access to the Netlify account, either ask Ian to check or ask for access. Usually this is because everything must be in its specific place with a specific name (and references to different files also need to be matched). This can take some trial and error, but one thing that can help is comparing with a fully-done website, like Mirela's [site](https://practical-pike-e67a8a.netlify.app/) and the associated [GitHub repo](https://github.com/MirelaGTulbure/gaec-lab).
+- Most likely there the rendering process didn't find something where it thought it should. Usually this is because everything must be in its specific place with a specific name (and references to different files also need to be matched). This can take some trial and error, but one thing that can help is comparing with a fully-done website, like Mirela's [site](https://practical-pike-e67a8a.netlify.app/) and the associated [GitHub repo](https://github.com/MirelaGTulbure/gaec-lab).
+
+Where should I go to debug?
+- You will need to log in to the Netlify website itself and check the deploy log for any errors. For the log-in information, please see the README of the [private SEAL repo](https://github.com/ncsuSEAL/sealLab/tree/main).
