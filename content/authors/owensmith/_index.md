@@ -24,9 +24,10 @@ organizations:
 bio: PhD Student @ NCSU
 
 interests:
-- Large scale computation
-- Agriculture/food security
 - Remote Sensing
+- High Performance Computing
+- Precision Agriculture
+- Data Compression
 
 education:
   courses:
@@ -74,6 +75,5 @@ user_groups:
 ---
 
 I am a current first year PhD student within SEAL and the broader Center for Geospatial Analytics at NCSU.
-My research primarily focuses on the development of remote sensing algorithms and computation at scale to derive information and new data.
-Additionally, I am a firm believer of Open software/science and subsequently enjoy contributing and writing new processing addons for GRASS GIS.
-
+My work can be distilled into the following word soup:
+"_Can we employ the principles of spatial scale to create flexible hierarchical data structures that better match the spatiotemporal scale of phenomena on Earth's surface, reduce redundant compute, and manage the increasing amount of remote sensing data?_"
