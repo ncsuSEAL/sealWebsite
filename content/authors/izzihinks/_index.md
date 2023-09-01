@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: she/her/hers <br /> PhD Student, 2020-
+role: she/her/hers <br /> PhD Candidate, 2020-
 
 # Organizations/Affiliations
 organizations:
@@ -21,12 +21,12 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student at the Center for Geospatial Analytics at NC State University.
+bio: I am a Ph.D. candidate at the Center for Geospatial Analytics at NC State University.
 
 interests:
 - Geocomputation
 - Remote sensing
-- Climate change
+- Causal inference
 - Sustainable agriculture
 - Risk assessment
 
