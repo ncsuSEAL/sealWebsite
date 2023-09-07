@@ -38,4 +38,3 @@ feature:
 
 SEAL’s fundamental research motivation is to map and characterize global change, and to understand the consequences of these changes for the Earth system and society. Anthropogenic changes to vegetation (e.g. cropping systems, deforestation, etc.) are of particular interest. Example research questions include: How can we feed a growing population without running out of water? Have tropical deforestation mitigation policies been effective? How is vegetation phenology changing in response to a changing climate?
 
-<iframe width="100%" height="450" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/SEAL-LAB-Fz6qw7QbS3i9BAffnb2pTrB?loc=35.783972,-78.671732,16z"></iframe>
