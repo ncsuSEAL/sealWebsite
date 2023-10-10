@@ -78,4 +78,4 @@ user_groups:
 - Lab Alumni
 ---
 
-Dr. Laura Wendelberger worked in the SEAL lab from 2021-2022 while pursuing a PhD in Statistics. As part of a larger team effort both within the SEAL lab and across organizations, she applied and adapted Bayesian Online Changepoint detection to monitor remote sensing data for change in near-real time while removing any corrupted data points in situ. More broadly, she enjoys collaborating with scientists across many fields to apply and modify statistical methods for new data challenges. She is now a postdoctoral researcher at Lawrence Livermore National Laboratory.
+Dr. Laura Wendelberger worked in the SEAL lab from 2021-2022 while pursuing a PhD in Statistics. As part of a larger team effort both within the SEAL lab and across organizations, she applied and adapted Bayesian Online Changepoint detection to monitor remote sensing data for change in near-real time while removing any corrupted data points in situ. More broadly, she enjoys collaborating with scientists across many fields to apply and modify statistical methods for new data challenges. She is now a staff scientist at Lawrence Livermore National Laboratory.
