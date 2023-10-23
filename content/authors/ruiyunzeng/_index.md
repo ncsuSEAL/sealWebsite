@@ -25,6 +25,9 @@ bio: I am a Postdoc at the Center for Geospatial Analytics at NC State Universit
 
 interests:
 - Meteorology
+- Climate Change
+- Water Resource Management
+- Big Data Analytics, Modeling
 
 education:
   courses:
