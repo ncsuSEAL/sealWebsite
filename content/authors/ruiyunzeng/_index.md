@@ -31,6 +31,9 @@ education:
   - course: PhD in Meteorology
     institution: University of Chinese Academy of Sciences
     year: 2019–2023
+  - course: Visiting Student in Meteorology
+    institution: Kansas State University
+    year: 2021–2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
