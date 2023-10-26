@@ -31,12 +31,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Meteorology
+  - course: Ph.D. in Meteorology
     institution: University of Chinese Academy of Sciences
     year: 2019–2023
   - course: Visiting Student in Meteorology
     institution: Kansas State University
     year: 2021–2023
+  - course: B.S. in Atmospheric Sciences
+    institution: Chengdu University of Information Technology, China
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,4 +75,4 @@ user_groups:
 - Current Lab Members
 ---
 
-Ruiyun "Yun" Zeng is a Postdoc at the Center for Geospatial Analytics at NC State University.
+Ruiyun “Yun” Zeng is currently a Postdoc under Dr. Josh Gray within the SEAL lab at NC State University. Previously, she received her B.S. degree in Atmospheric Sciences from Chengdu University of Information Technology, China. Additionally, she completed her Ph. D in Meteorology at University of Chinese Academy of Sciences as a joint Ph. D student from Kansas State University. Yun’s current research interests focus on using computational and process-based multi-scale modeling with remote sensing to manage crop vulnerabilities to excess heat and develop adaptive potential practices to mitigate adverse effects of climate change on agricultural production.
