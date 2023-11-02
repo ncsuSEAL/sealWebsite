@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: she/her/hers <br /> PhD Student, 2021-
+role: she/her/hers <br /> PhD Candidate, 2021-
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Geospatial Analytics PhD student within the SEAL lab at North Carolina State University.
+bio: Geospatial Analytics PhD Canddiate within the SEAL lab at North Carolina State University.
 
 interests:
 - Remote Sensing
@@ -75,4 +75,4 @@ user_groups:
 - Current Lab Members
 ---
 
-I am a second year Geospatial Analytics PhD student within the SEAL lab at NCSU.  My current research interests focus on using remote sensing algorithms to locate and characterize land surface changes across regional to global scales in near-real time.  Additionally, I am also interested in developing methods to map inundation changes in forested, coastal wetland ecosystems and assessing the impact of inundation events on biogeochemical processes related to carbon storage and methane emissions.  More broadly, I have an interest in developing remote sensing methods that use principles from ecological forecasting, Bayesian statistics, and machine learning to help us understand changes on earth and their impact on global climate change.
+I am a third year Geospatial Analytics PhD candidate within the SEAL lab at NCSU.  My current research interests focus on using remote sensing algorithms to locate and characterize land surface changes across regional to global scales in near-real time.  Additionally, I am also interested in developing methods to map inundation changes in forested, coastal wetland ecosystems and assessing the impact of inundation events on biogeochemical processes related to carbon storage and methane emissions.  More broadly, I have an interest in developing remote sensing methods that use principles from ecological forecasting, Bayesian statistics, data fusion, and machine learning to help us understand changes on earth and their impact on global climate change.
