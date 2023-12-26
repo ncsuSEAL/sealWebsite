@@ -1,7 +1,7 @@
 ---
-title: Integrating Satellite Observations with Physical Models to Map Inundation and Capture Short-Term Methane Emissions 
+title: Integrating Remote Sensing with Physical Models to Map Inundation and Capture Methane Emissions
 
-authors:
+authors
 - admin
 - jennaabrahamson
 
