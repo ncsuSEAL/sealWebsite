@@ -21,4 +21,3 @@ design:
 PI: [Josh Gray](../authors/admin)
 
 
-<iframe width="100%" height="600" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/SEAL-LAB-Fz6qw7QbS3i9BAffnb2pTrB?loc=35.783972,-78.671732,16z"></iframe>
