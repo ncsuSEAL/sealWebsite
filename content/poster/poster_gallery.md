@@ -40,7 +40,13 @@ gallery_item:
   image: 2022-12_Abrahamson_AGU.jpg
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, IL)
 
+- album: poster_img
+  image: 2022_12_OwenSmith_AGU.jpg
+  caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2022, Chicago, IL)
 
+- album: poster_img
+  image: 2023_12_OwenSmith_AGU.jpg
+  caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2023, San Francisco, CA)
 
 ---
 
