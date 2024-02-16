@@ -48,6 +48,10 @@ gallery_item:
   image: 2023_12_OwenSmith_AGU.jpg
   caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2023, San Francisco, CA)
 
+- album: poster_img
+  image: 2023_12_JennaAbrahamson_AGU.png
+  caption: American Geophysical Union (AGU) Fall Meeting (Dec. 2023, San Francisco, CA)
+
 ---
 
 {{< gallery album="poster_img">}}
