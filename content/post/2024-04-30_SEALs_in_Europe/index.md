@@ -6,7 +6,7 @@ authors:
 - jennaabrahamson
 ---
 
-The past month brought exciting travel adventures to the SEAL lab as Izzi, Owen, Jenna, and Grace traveled to present their research at the European Geophysical Union (EGU) General Assembly in Vienna, Austria, and at the European Space Agency’s Centre for Earth Observation in Rome (Frascati), Italy where PI Dr. Josh Gray has been spending his sabbatical as a Visiting Scientist.
+The past month brought exciting travel adventures to the SEAL lab as Izzi, Owen, Jenna, and Grace traveled to present their research at the European Geophysical Union (EGU) General Assembly in Vienna, Austria, and at the European Space Agency’s Centre for Earth Observation in Rome (Frascati), Italy. The SEAL lab members met PI Dr. Josh Gray at EGU in Vienna before heading to Italy to visit the ESA ESRIN office where Josh has been spending his sabbatical as a Visiting Researcher.
 
 The journey began in Vienna, Austria where (after navigating international travel, lost baggage, and unique hostel rooms) we quickly learned how to navigate the Vienna metro system and made our way to the Austria Center Vienna. We had a lot of fun making new connections with remote sensing scientists and seeing how research is conducted and what organizations exist in countries outside of the United States. Our group had 3 oral talks, 1 lightning (PICO) talk, and 1 poster presentation with a diverse array of topics all focused on using time series of remote sensing data to study processes on Earth. For more details, see the abstracts linked at the end of this blog post.
 
@@ -20,7 +20,7 @@ After getting our fill of Wiener schnitzel and goulash, and even trying out some
 ![Pictures from Vienna](./Vienna.JPG)
 
 
-The second half of our journey took place in Rome, Italy where we visited the ESA ESRIN office where our PI Dr. Josh Gray has been doing his sabbatical as a Visiting Scientist studying phenology in drylands since the summer of 2023. During the visit, we each got the chance to present our own research as oral presentations to the ESA Science Hub Team. It was a great experience being able to present our research, some of which use ESA satellites, to ESA scientists themselves! 
+The second half of our journey took place in Rome, Italy where we visited the ESA ESRIN office where our PI Dr. Josh Gray has been doing his sabbatical as a Visiting Researcher studying phenology in drylands since the summer of 2023. During the visit, we each got the chance to present our own research as oral presentations to the ESA Science Hub Team. It was a great experience being able to present our research, some of which use ESA satellites, to ESA scientists themselves! 
 
 
 ![SEAL at ESA ESRIN Office](./SEAL_ESRIN.JPG)
