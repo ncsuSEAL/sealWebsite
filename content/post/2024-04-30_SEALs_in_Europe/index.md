@@ -20,7 +20,7 @@ After getting our fill of Wiener schnitzel and goulash, and even trying out some
 ![Pictures from Vienna](./Vienna.JPG)
 
 
-The second half of our journey took place in Rome, Italy where we visited the ESA ESRIN office where our PI Dr. Josh Gray has been doing his sabbatical as a Visiting Scientist studying phenology in drylands since the summer of 2023. During the visit, we each got the chance to present our own research as oral presentations to the ESA Science Hub Team. It was a great experience being able to present research, many of which use ESA satellites, to ESA scientists themselves! 
+The second half of our journey took place in Rome, Italy where we visited the ESA ESRIN office where our PI Dr. Josh Gray has been doing his sabbatical as a Visiting Scientist studying phenology in drylands since the summer of 2023. During the visit, we each got the chance to present our own research as oral presentations to the ESA Science Hub Team. It was a great experience being able to present our research, some of which use ESA satellites, to ESA scientists themselves! 
 
 
 ![SEAL at ESA ESRIN Office](./SEAL_ESRIN.JPG)
