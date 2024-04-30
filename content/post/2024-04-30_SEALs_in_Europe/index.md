@@ -1,5 +1,5 @@
 ---
-title: SEALs in Europe
+title: SEALs in Europe ✈️
 date: 2024-04-30
 
 authors:
@@ -45,17 +45,22 @@ After the ESRIN visit, the SEALs stayed a couple of extra days to sightsee and i
 
 ## SEAL Lab EGU Abstracts:
 
-**Izzi Hinks**
+**Izzi Hinks** 
+
 •	[From Satellites to Soil: Integrating Satellite and Household Survey Data to Assess the Impacts of Adaptations on Smallholder Farmers’ Climate Resilience]( https://meetingorganizer.copernicus.org/EGU24/EGU24-14059.html)
 
 **Josh Gray**
+
 •	[Drought Changes Growing Season Length and Vegetation Productivity]( https://meetingorganizer.copernicus.org/EGU24/EGU24-14774.html)
 
 **Eunhye (Grace) Choi**
+
 •	[Understanding the role of vegetation responses to drought in regulating autumn senescence]( https://meetingorganizer.copernicus.org/EGU24/EGU24-13879.html)
 
 **Owen Smith**
+
 •	[Overcoming Big Data Challenges in Satellite Observation: A Variable Resolution Scheme for Modeling Land Surface Phenology]( https://meetingorganizer.copernicus.org/EGU24/EGU24-12119.html)
 
 **Jenna Abrahamson**
+
 •	[Multi-Sensor Space-Time Data Fusion of Machine Learning Generated Time Series for Wetland Inundation Monitoring]( https://meetingorganizer.copernicus.org/EGU24/EGU24-11476.html)
