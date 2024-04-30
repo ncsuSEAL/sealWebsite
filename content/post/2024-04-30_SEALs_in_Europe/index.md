@@ -6,9 +6,6 @@ authors:
 - jennaabrahamson
 ---
 
-
-![SEAL at EGU](./SEAL_EGU.JPG)
-
 The past month brought exciting travel adventures to the SEAL lab as Izzi, Owen, Jenna, and Grace traveled to present their research at the European Geophysical Union (EGU) General Assembly in Vienna, Austria, and at the European Space Agency’s Centre for Earth Observation in Rome (Frascati), Italy where PI Dr. Josh Gray has been spending his sabbatical as a Visiting Scientist.
 
 The journey began in Vienna, Austria where (after navigating international travel, lost baggage, and unique hostel rooms) we quickly learned how to navigate the Vienna metro system and made our way to the Austria Center Vienna. We had a lot of fun making new connections with remote sensing scientists and seeing how research is conducted and what organizations exist in countries outside of the United States. Our group had 3 oral talks, 1 lightning (PICO) talk, and 1 poster presentation with a diverse array of topics all focused on using time series of remote sensing data to study processes on Earth. For more details, see the abstracts linked at the end of this blog post.
