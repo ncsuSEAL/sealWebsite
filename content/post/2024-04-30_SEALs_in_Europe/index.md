@@ -17,7 +17,7 @@ The journey began in Vienna, Austria where (after navigating international trave
 
 After getting our fill of Wiener schnitzel and goulash, and even trying out some plum stew, EGU and our week in Austria came to a close. We came away with many new connections and insights into work related to our own and hope to one day again return to Austria Center Vienna! With that, we packed our bags and followed the call of fresh pizza, pasta, gelato, (and of course – satellites & science) over to Rome, Italy!
 
-![Pictures from Vienna](./Vienna.JPG)
+![Pictures from Vienna](./Vienna.png)
 
 
 The second half of our journey took place in Rome, Italy where we visited the ESA ESRIN office where our PI Dr. Josh Gray has been doing his sabbatical as a Visiting Researcher studying phenology in drylands since the summer of 2023. During the visit, we each got the chance to present our own research as oral presentations to the ESA Science Hub Team. It was a great experience being able to present our research, some of which use ESA satellites, to ESA scientists themselves! 
@@ -32,14 +32,14 @@ In addition to presenting and chatting with researchers, we got a tour of their 
 
 
 
-![ESRIN Photos](./ESRIN.JPG)
+![ESRIN Photos](./ESRIN.png)
 
 
 
 After the ESRIN visit, the SEALs stayed a couple of extra days to sightsee and indulge in more gelato before heading back stateside. From the Roman Coliseum to the Trevi Fountain we were able to partake in the unique opportunity to learn more about Rome’s ancient history and culture. While just barely escaping getting trapped in the Vatican museums, we all managed to make it back home safely and are excited and invigorated to continue doing our research from our home base in Raleigh, North Carolina.
 
 
-![SEAL in Italy](./SEAL_Italy.JPG)
+![SEAL in Italy](./SEAL_Italy.png)
 
 
 
