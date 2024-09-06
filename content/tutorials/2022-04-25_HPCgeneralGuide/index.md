@@ -343,6 +343,8 @@ conda deactivate
 
 3. Use `pynodelauncher`. This is similar to `launch` but it is a python package. See the instructions [here](https://github.com/ncsu-landscape-dynamics/pynodelauncher) from Vashek and Lisa Lowe. As of Nov 2021, this was not working when calling R scripts, so unsure what's going on.
 
+**Note**: When using job arrays to automate submissions, the max for one array is 20,000 jobs.
+
 ## HPC Shell
 
 Out of the box Henry uses the C-Shell (csh/tcsh), however you can specify that
