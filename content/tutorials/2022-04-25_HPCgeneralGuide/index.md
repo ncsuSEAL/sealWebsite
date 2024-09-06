@@ -208,6 +208,8 @@ conda activate /usr/local/usrapps/jmgray2/imcgreg/env_diss
 Rscript ./myScript.R
 conda deactivate
 ```
+**Note from HPC Staff:** As a lab group, we tend to have all our files and data stored at `/rsstu/users/j/jmgray2/SEAL`. If you are happy with the performance (length of time it takes to run your code), then you can stay running files out on `/rsstu`. However, if it's taking awhile you may experience better performance by copying over your LSF submit script and R script to `/share/$GROUP/$USER`, and running from that path (or some sub-directory of that path).
+
 
 ### Parallel Jobs
 One good thing about running code in HPC is that we can use a number of cores to parallelize the code. However, this kind of parallelization is akin to taking an `lapply` over several items and having each of the items analyzed separately.
