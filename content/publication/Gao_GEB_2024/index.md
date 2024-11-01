@@ -85,7 +85,7 @@ projects:
 ---
 
 {{% callout note %}}
-<a href='https://xjgao.netlify.app/publication/2024_gao_geb/' target="_blank" rel="noopener noreferrer">Source of the original blog post!
+<a href='https://xjgao.netlify.app/publication/2024_gao_geb/' target="_blank" rel="noopener noreferrer">Source of the original blog post!</a>
 {{% /callout %}}
 
 This paper was not in the plan.
