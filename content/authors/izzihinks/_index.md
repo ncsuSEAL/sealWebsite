@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: she/her/hers <br /> PhD Candidate, 2020-
+role: she/her/hers <br /> PhD Candidate, 2020-2024
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 2020–Present
+    year: 2020–2024
 
   - course: BSc in Computer Science, BSc in Environmental Science
     institution: University of North Carolina at Chapel Hill
