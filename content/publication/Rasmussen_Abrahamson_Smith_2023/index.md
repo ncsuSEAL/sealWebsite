@@ -44,7 +44,7 @@ abstract: The ability to detect land use and land cover change quickly and accur
 # Summary. An optional shortened abstract.
 summary: How can we increase accuracy of change detection algorithms using both expert rules and tree based algorithms.
 
-pub_tags: [change detection, machine learning, classification]
+pub_tags: [Change Detection, Machine Learning, Time-series, Algorithm, Medium resolution]
 
 # Display this page in the Featured widget?
 featured: true
