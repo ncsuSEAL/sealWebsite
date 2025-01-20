@@ -9,10 +9,9 @@ authors:
 - jennaabrahamson
 - Xiaojing Tang
 - owensmith
-- Josh Gray
+- admin
 - Curtis Woodcock
 - Marc Bosch
-- admin
 
 # Author notes (optional)
 # author_notes:
