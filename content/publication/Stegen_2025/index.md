@@ -1,5 +1,5 @@
 ---
-title: "Variable Inundation Across Earth's Terrestrial ecosystems"
+title: "Reviews and Syntheses: Variable Inundation Across Earth's Terrestrial Ecosystems"
 subtitle: 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -51,7 +51,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-07-16"
+date: "2025-02-24"
 doi: "https://ieeexplore-ieee-org.prox.lib.ncsu.edu/document/10283320"
 
 
@@ -77,7 +77,7 @@ abstract: The structure, function, and dynamics of Earth's terrestrial ecosystem
 # Summary. An optional shortened abstract.
 summary: 
 
-pub_tags: [Variable Inundation, Biogeochemical Impacts, Transferable Knowledge, Wetlands]
+pub_tags: [water-carbon cycle, wetlands]
 
 # Display this page in the Featured widget?
 featured: true
