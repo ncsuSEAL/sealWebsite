@@ -10,7 +10,7 @@ authors:
 - Michelle Busch
 - Joshua Fisher
 - Joshua Ladau
-- Jenna Abrahamson
+- jennaabrahamson
 - Lauren Kinsman-Costello
 - Li Li
 - Xingyuan Chen
