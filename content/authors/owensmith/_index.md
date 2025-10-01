@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: he/him/his <br /> PhD Student, 2021-
+role: he/him/his <br /> PhD Candidate, 2021-
 
 # Organizations/Affiliations
 organizations:
@@ -21,13 +21,12 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student @ NCSU
+bio: PhD Candidate @ NCSU
 
 interests:
 - Remote Sensing
-- High Performance Computing
-- Precision Agriculture
-- Data Compression
+- Adaptive data structures and algorithms
+- Data compression
 
 education:
   courses:
