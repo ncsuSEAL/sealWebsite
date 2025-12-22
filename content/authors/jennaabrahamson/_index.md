@@ -21,7 +21,7 @@ organizations:
   url: "https://cnr.ncsu.edu/geospatial/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Geospatial Analytics PhD Canddiate within the SEAL lab at North Carolina State University.
+bio: Geospatial Analytics PhD Candidate within the SEAL lab at North Carolina State University.
 
 interests:
 - Remote Sensing
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 2021–Present
+    year: 2021–2025
 
   - course: BSc in Environmental Science/Geology
     institution: University of St. Thomas
@@ -72,7 +72,7 @@ email: "jnabraha@ncsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Lab Members
+- Lab Alumni
 ---
 
-I am a fourth year Geospatial Analytics PhD candidate within the SEAL lab at NCSU.  My current research interests focus on using remote sensing algorithms to locate and characterize land surface changes across regional to global scales in near-real time.  Additionally, I am also interested in developing methods to map inundation changes in forested, coastal wetland ecosystems and assessing the impact of inundation events on biogeochemical processes related to carbon storage and methane emissions.  More broadly, I have an interest in developing remote sensing methods that use principles from ecological forecasting, Bayesian statistics, data fusion, and machine learning to help us understand changes on earth and their impact on global climate change.
+Jenna was a PhD student focused on developing methods to map inundation changes in forested, coastal wetland ecosystems and assessing the impact of inundation events on biogeochemical processes related to carbon storage and methane emissions. Her dissertation centered on three main questions: how well different satellite sensors can map inundation using machine learning; how spatial and Bayesian statistical methods can fuse multi-sensor data at high spatial and temporal resolution; and how improved inundation mapping affects estimates of wetland methane emissions. She graduated in Fall 2025, after which she joined Pacific Northwest National Lab as a Linus Pauling Distinguished Postdoctoral Fellow.
