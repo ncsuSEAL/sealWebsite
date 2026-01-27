@@ -13,7 +13,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: she/her/hers <br /> PhD Candidate, 2021-
+role: she/her/hers <br /> PhD Candidate, 2021-2025
 
 # Organizations/Affiliations
 organizations:
